@@ -1,9 +1,7 @@
 ---
 title: 'My First Meow'
 date: 2022-11-20T09:03:20-08:00
-tags:
-  - test
-  - first
+tags: ['test', 'first']
 categories: ['Development', 'Production']
 series: ['Meow']
 series_order: 1
