@@ -24,6 +24,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        env:
+          HUGO_disqusShortname: ${{ secrets.HUGO_disqusShortname }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
