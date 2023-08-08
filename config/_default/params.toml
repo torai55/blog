@@ -73,6 +73,7 @@ disableImageOptimization = true
   showWordCount = true
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showComments = true
 
 [list]
   showHero = false
