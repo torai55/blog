@@ -26,6 +26,13 @@ jobs:
         run: hugo --minify
         env:
           HUGO_disqusShortname: ${{ secrets.HUGO_disqusShortname }}
+          HUGO_PARAMS_FIREBASE_APIKEY: ${{ secrets.HUGO_PARAMS_FIREBASE_APIKEY }}
+          HUGO_PARAMS_FIREBASE_APPID: ${{ secrets.HUGO_PARAMS_FIREBASE_APPID }}
+          HUGO_PARAMS_FIREBASE_AUTHDOMAIN: ${{ secrets.HUGO_PARAMS_FIREBASE_AUTHDOMAIN }}
+          HUGO_PARAMS_FIREBASE_MEASUREMENTID: ${{ secrets.HUGO_PARAMS_FIREBASE_MEASUREMENTID }}
+          HUGO_PARAMS_FIREBASE_MESSAGINGSENDERID: ${{ secrets.HUGO_PARAMS_FIREBASE_MESSAGINGSENDERID }}
+          HUGO_PARAMS_FIREBASE_PROJECTID: ${{ secrets.HUGO_PARAMS_FIREBASE_PROJECTID }}
+          HUGO_PARAMS_FIREBASE_STORAGEBUCKET: ${{ secrets.HUGO_PARAMS_FIREBASE_STORAGEBUCKET }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
