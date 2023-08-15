@@ -1,0 +1,4 @@
+{{ $sass := resources.Get "scss/inlinespoiler.scss" }} 
+{{ $style := $sass | resources.ToCSS }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />
+<span class="inline-spoiler">{{- .Inner | safeHTML -}}</span>
