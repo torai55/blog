@@ -1,6 +1,7 @@
 ---
 title: 'Heliamphora (heterdoxa X ionasi) X minor var. pilosa 02 AW'
 date: 2023-08-07T23:28:01+08:00
+draft: false
 tags: ['Heliamphora', 'record']
 isCJKLanguage: true
 ---
