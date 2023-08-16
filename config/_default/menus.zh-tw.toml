@@ -20,20 +20,20 @@
   pageRef = "tags"
   weight = 20
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 30
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 30
 
-[[main]]
-  name = "Series"
-  pageRef = 'series'
-  weight = 40
+# [[main]]
+#   name = "Series"
+#   pageRef = 'series'
+#   weight = 40
 
-[[main]]
-  name = "Animals"
-  pageRef = "animals"
-  weight = 50
+# [[main]]
+#   name = "Animals"
+#   pageRef = "animals"
+#   weight = 50
 
 [[main]]
   pre = "github"
