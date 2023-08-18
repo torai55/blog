@@ -1,8 +1,8 @@
 ---
-title: "Heliamphora folliculata BCP"
+title: 'Heliamphora folliculata BCP'
 date: 2023-08-18T15:15:57+08:00
 summary: '栽培過程紀錄'
-draft: true
+draft: false
 tags: ['Heliamphora', 'Record']
 isCJKLanguage: true
 ---
@@ -17,12 +17,12 @@ isCJKLanguage: true
 
 ### 2023/06/29 入手
 
-![2023-06-29](./images/2023-06-29.jpg "有根")
+![2023-06-29](./images/2023-06-29.jpg '有根')
 
 ### 2023/07/24 三片葉子
 
-![2023-07-24](./images/2023-07-24.jpg "三片葉子")
+![2023-07-24](./images/2023-07-24.jpg '三片葉子')
 
 ### 2023/08/08 四片葉子
 
-![2023-08-08](./images/2023-08-08.jpg "四片葉子")
+![2023-08-08](./images/2023-08-08.jpg '四片葉子')
