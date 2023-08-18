@@ -3,7 +3,7 @@ title: 'Heliamphora chimantensis AW'
 date: 2023-08-18T13:16:53+08:00
 summary: '栽培過程紀錄'
 draft: false
-tags: ['Heliamphora', 'record']
+tags: ['Heliamphora', 'Record']
 isCJKLanguage: true
 ---
 
