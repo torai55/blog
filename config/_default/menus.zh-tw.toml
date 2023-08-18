@@ -37,7 +37,7 @@
 
 [[main]]
   pre = "github"
-  url = "https://github.com/torai55"
+  url = "https://github.com/torai55/blog"
   weight = 60
 
 # [[main]]
