@@ -1,6 +1,6 @@
 # Document
 
-A blog using [Hugo](https://gohugo.io/documentation/) for generating static site with [Blowfish](https://blowfish.page/docs/) theme.
+This blog is using [Hugo](https://gohugo.io/documentation/) for generating static site with [Blowfish](https://blowfish.page/docs/) theme.
 
 ## Development
 
