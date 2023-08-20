@@ -39,10 +39,10 @@ isCJKLanguage: true
 不過全紅的老葉已經開始枯萎。
 
 {{< gallery >}}
-<img src="./images/2023-05-27.jpg" class="grid-w50" />
-<img src="./images/2023-05-31.jpg" class="grid-w50" />
-<img src="./images/2023-06-13.jpg" class="grid-w50" />
-<img src="./images/2023-06-01.jpg" class="grid-w50" />
+  <img src="./images/2023-05-27.jpg" class="grid-w50" />
+  <img src="./images/2023-05-31.jpg" class="grid-w50" />
+  <img src="./images/2023-06-13.jpg" class="grid-w50" />
+  <img src="./images/2023-06-01.jpg" class="grid-w50" />
 {{< /gallery>}}
 
 ### 2023/08/07 全紅老葉大量枯萎
@@ -55,4 +55,4 @@ isCJKLanguage: true
 且光照太強會使得葉片壽命提早結束。  
 可能是光照太強使得葉肉組織被破壞得太嚴重，顏色全紅代表葉綠素都被分解而植物色素堆積。
 
-![2023-08-07](./images/2023-08-07.jpg "老葉大量枯萎")
+![2023-08-07](./images/2023-08-07.jpg '老葉大量枯萎')
