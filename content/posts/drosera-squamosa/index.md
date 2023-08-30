@@ -12,8 +12,8 @@ isCJKLanguage: true
 ![featured](./featured.jpg "圖片來自於 [Fierce Flora](https://www.fierceflora.com/drosera-squamosa/)。植株還沒入手，先拿來佔位。")
 
 中文名稱：鱗狀毛氈苔  
-學名： *Drosera squamosa*  
-購入管道： [光斑深林](https://www.facebook.com/HearsayCarnivorousPlant)  
+學名：*Drosera squamosa*  
+購入管道：[光斑深林](https://www.facebook.com/HearsayCarnivorousPlant)  
 購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler>}}
 
 生長於澳洲西南部，為夏乾冬雨的溫帶地中海型氣候。  
@@ -101,12 +101,12 @@ isCJKLanguage: true
 
 ### 生長季
 
-在秋分過後可以考慮入盆種植。  
+塊莖約在秋分過後萌芽，可以考慮入盆種植。  
 可用陶盆降根溫、介質混入一兩粒緩效肥作為基肥，增加收塊莖的機率。  
 將塊莖的光滑面朝下，植入約塊莖直徑深三、四倍的深度。  
 每週澆水至看見地上部後，可考慮使用淺腰水。水深不可超過塊根埋入的高度。  
 溫度須保持高於 5℃ 以防凍傷；低於 25℃ 以防休眠。  
-光照則需要維持在每天 6 至 8 小時，避免休眠。
+光照則需要維持在每天 6 至 8 小時，避免光週期太長使植株以為是夏天，而誘發休眠。
 
 ## 參考資料
 
