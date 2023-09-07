@@ -112,3 +112,19 @@ isCJKLanguage: true
 
 - [growsundews.com](http://www.growsundews.com/Tuberous_drosera/Tuberous_drosera_growing_conditions.html)
 - [Carnivorous Plant Discussions](https://terraforums.com/forums/threads/tuberous-drosera.137939/)
+
+## 栽培紀錄
+
+### 2023/09/06 定植
+
+球經直徑只有 3mm。  
+將桐生沙、細粒赤玉土、泥炭土以 3:3:1 的比例混合做為下層，純桐生沙作為上層介質，裝入深度八公分的陶盆。  
+球莖埋入約兩公分深度並覆土，會位於純桐生沙之中。  
+希望能利用上層純顆粒介質快乾透氣的特性，降低休眠期球莖腐爛的機率，且下層有培養土能讓根部持續吸收水分。  
+使用陶盆則是希望透過蒸散帶走熱量，延長毛氈苔的生長季。  
+每天補充少許水分至水盤，很快能被盆栽吸乾且不使表土潮濕的程度。  
+
+{{< gallery >}}
+  <img src="./images/2023-09-06.jpg" class="grid-w50" />
+  <img src="./images/2023-09-06(2).jpg" class="grid-w50" />
+{{< /gallery >}}
