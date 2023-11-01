@@ -57,14 +57,3 @@ isCJKLanguage: true
 希望是在儲存地下根莖 (rhizome) 的養分。  
 
 ![2023-10-01](./images/2023-10-01.jpg)
-
-### 2023/11/01 換盆
-
-跟剛入手時一樣是五片葉子。  
-嘗試把活水苔丟到上面，但連活水苔都長不好，換介質的時候到了。  
-
-{{< gallery>}}
-  <img src="./images/2023-11-01(1).jpg" class="grid-w33" />
-  <img src="./images/2023-11-01(2).jpg" class="grid-w33" />
-  <img src="./images/2023-11-01(3).jpg" class="grid-w33" />
-{{< /gallery>}}
