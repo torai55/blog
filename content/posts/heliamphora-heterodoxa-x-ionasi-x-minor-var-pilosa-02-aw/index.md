@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora (heterdoxa x ionasi) x minor var. pilosa 02 AW'
+title: 'Heliamphora (heterodoxa x ionasi) x minor var. pilosa 02 AW'
 date: 2023-08-07T23:28:01+08:00
 summary: '栽培過程紀錄'
 draft: false
@@ -10,7 +10,7 @@ isCJKLanguage: true
 ## (另解 x 艾俄那西) x 披毛小太陽瓶子草 AW clone 02
 
 中文名稱：(另解太陽瓶子草 x 艾俄那西太陽瓶子草) x 披毛小太陽瓶子草  
-學名及種源：*Heliamphora* (*heterdoxa* x *ionasi*) x *minor* var. *pilosa* AW clone 02  
+學名及種源：*Heliamphora* (*heterodoxa* x *ionasi*) x *minor* var. *pilosa* AW clone 02  
 購入管道：台灣食蟲社團  
 購入價格：{{< inlinespoiler >}}1800 NTD{{< /inlinespoiler >}}
 
@@ -39,3 +39,10 @@ isCJKLanguage: true
 暫時不調整光強度，看看下個月會不會轉紅。  
 
 ![2023-09-01](./images/2023-09-01.jpg)
+
+### 2023/11/01
+
+幾乎沒動靜，只有兩片老葉子乾掉或正在乾掉的路上。  
+最新的葉子基部可以觀察到葉芽，就看他要多久才長出來。  
+
+![2023-11-01](./images/2023-11-01.jpg)
