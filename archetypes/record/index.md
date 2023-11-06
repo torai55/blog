@@ -1,9 +1,9 @@
 ---
 title: '{{ replace .Name "-" " " | title }}'
 date: {{ .Date }}
-summary: 'The summary for the content.'
+summary: '栽培紀錄'
 draft: true
-tags: []
+tags: ['', 'Record']
 isCJKLanguage: true
 ---
 
