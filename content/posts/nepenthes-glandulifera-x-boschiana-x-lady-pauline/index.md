@@ -23,3 +23,9 @@ isCJKLanguage: true
 <img src="./images/2023-08-12(1).jpg" class="grid-w50">
 <img src="./images/2023-08-12(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2023/11/07
+
+持續跳葉，但無法結瓶，應該是濕度不夠。  
+
+![2023-11-07](./images/2023-11-07.jpg)
