@@ -9,12 +9,12 @@ isCJKLanguage: true
 
 ## 鱗狀毛氈苔
 
-![featured](./featured.jpg "圖片來自於 [Fierce Flora](https://www.fierceflora.com/drosera-squamosa/)。植株還沒入手，先拿來佔位。")
+![featured](./images/2023-11-28.jpg)
 
 中文名稱：鱗狀毛氈苔  
 學名：*Drosera squamosa*  
-購入管道：[光斑深林](https://www.facebook.com/HearsayCarnivorousPlant)  
-購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler>}}
+購入管道：[光斑深林](https://www.facebook.com/HearsayCarnivorousPlant)、Wilson Exotics  
+購入價格：{{< inlinespoiler >}}600、500 NTD{{< /inlinespoiler>}}
 
 生長於澳洲西南部，為夏乾冬雨的溫帶地中海型氣候。  
 在炎熱乾燥的夏季休眠；溫和多雨的冬季生長。
@@ -112,14 +112,15 @@ isCJKLanguage: true
 
 - [growsundews.com](http://www.growsundews.com/Tuberous_drosera/Tuberous_drosera_growing_conditions.html)
 - [Carnivorous Plant Discussions](https://terraforums.com/forums/threads/tuberous-drosera.137939/)
+- [tuberous-drosera](http://www.tuberous-drosera.net/growseason.htm)
 
 ## 栽培紀錄
 
-### 2023/09/06 定植
+### 2023/09/06 光斑深林球莖定植
 
-球經直徑只有 3mm。  
-將桐生沙、細粒赤玉土、泥炭土以 3:3:1 的比例混合做為下層，純桐生沙作為上層介質，裝入深度八公分的陶盆。  
-球莖埋入約兩公分深度並覆土，會位於純桐生沙之中。  
+光斑深林的球莖，直徑只有 3mm。  
+將桐生沙、細粒赤玉土、泥炭土以 3:3:1 的比例混合做為下層，純桐生沙作為上層介質，裝入深度八公分的素燒陶盆。  
+球莖埋入約 1.5cm 深並覆土，會位於純桐生沙之中。  
 希望能利用上層純顆粒介質快乾透氣的特性，降低休眠期球莖腐爛的機率，且下層有培養土能讓根部持續吸收水分。  
 使用陶盆則是希望透過蒸散帶走熱量，延長毛氈苔的生長季。  
 每天補充少許水分至水盤，很快能被盆栽吸乾且不使表土潮濕的程度。  
@@ -128,3 +129,29 @@ isCJKLanguage: true
   <img src="./images/2023-09-06.jpg" class="grid-w50" />
   <img src="./images/2023-09-06(2).jpg" class="grid-w50" />
 {{< /gallery >}}
+
+### 2023/09/25 Wilson Exotics 兩顆球莖
+
+![2023-09-25](./images/2023-09-25.jpg)
+
+直徑為 2mm 和 3mm 的球莖各一顆。  
+一顆植入和光斑深林相同的素燒陶盆內，保持淺腰水（1cm 內）。  
+另一顆則是置於夾鏈袋內，保持夾鏈袋開啟。一個月後開始保持有幾滴水在夾鏈袋內，球莖能直接接觸到水和空氣。  
+兩者都放置於製冷晶片冰箱內，日夜溫約 22/19℃，光週期為 7.5 小時。  
+
+### 2023/11/17 休眠醒來
+
+醒來的時間點稍晚，考慮在明年春天轉熱時放入冰箱延長生長季。  
+盆內有兩顆球莖，但目前只看到一個芽。  
+夾鏈袋的球莖（左圖）已經定植後送人。  
+
+{{< gallery >}}
+  <img src="./images/2023-11-17(1).jpg" class="grid-w50">
+  <img src="./images/2023-11-17(2).jpg" class="grid-w50">
+{{< /gallery >}}
+
+### 2023/11/28 葉片展開
+
+已可以觀察到簇生的葉型。  
+
+![2023-11-28](./images/2023-11-28.jpg)
