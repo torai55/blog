@@ -9,6 +9,8 @@ isCJKLanguage: true
 
 ## 萊佛士豬籠草
 
+![featured](./featured.jpg)
+
 中文名稱：萊佛士豬籠草  
 學名：*Nepenthes rafflesiana*  
 購入管道：FB 食蟲社團  
