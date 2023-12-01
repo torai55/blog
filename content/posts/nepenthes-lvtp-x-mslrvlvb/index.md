@@ -3,7 +3,7 @@ title: 'Nepenthes LVTP x MSLRVLVB'
 date: 2023-11-30T01:01:50+08:00
 summary: '栽培紀錄'
 draft: false
-tags: ['Nepenthes', 'Record']
+tags: ['Nepenthes', 'Seedling', 'Record']
 isCJKLanguage: true
 ---
 
