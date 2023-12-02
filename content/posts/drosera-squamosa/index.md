@@ -7,7 +7,7 @@ tags: ['Drosera', 'Summer Dormancy', 'Record']
 isCJKLanguage: true
 ---
 
-## 鱗狀毛氈苔
+## 植物資料
 
 ![featured](./images/2023-11-28.jpg)
 
@@ -108,7 +108,7 @@ isCJKLanguage: true
 溫度須保持高於 5℃ 以防凍傷；低於 25℃ 以防休眠。  
 光照則需要維持在每天 6 至 8 小時，避免光週期太長使植株以為是夏天，而誘發休眠。
 
-## 參考資料
+### 參考資料
 
 - [growsundews.com](http://www.growsundews.com/Tuberous_drosera/Tuberous_drosera_growing_conditions.html)
 - [Carnivorous Plant Discussions](https://terraforums.com/forums/threads/tuberous-drosera.137939/)

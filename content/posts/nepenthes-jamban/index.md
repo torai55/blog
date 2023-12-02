@@ -7,7 +7,9 @@ tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
-## 馬桶豬籠草
+## 植物資料
+
+![feature](./featured.jpg)
 
 中文名稱：馬桶豬籠草  
 學名：*Nepenthes jamban*  

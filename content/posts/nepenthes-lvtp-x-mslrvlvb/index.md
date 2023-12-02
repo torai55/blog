@@ -7,7 +7,7 @@ tags: ['Nepenthes', 'Seedling', 'Record']
 isCJKLanguage: true
 ---
 
-## [(勞氏維奇) x (大豬維奇) x 寬唇] x {{大豬 x [(窄葉勞氏) x (六甲維奇)]} x [(勞氏維奇) x 包希]}
+## 植物資料
 
 ![featured](featured.jpg "賣家提供親本圖")
 
@@ -15,8 +15,6 @@ isCJKLanguage: true
 學名交配式：*Nepenthes* [(*lowii* x *veitchii*) x 'Tiveyi' x *platychila*] x {{*maxima* x [(*stenophylla* x *lowii*) x ('Rokko' x *veitchii*)]} x [(*lowii* x *veitchii*) x *boschiana*]}  
 購入管道：FB 食蟲社團  
 購入價格：{{< inlinespoiler >}}350 NTD/20 顆種子{{< /inlinespoiler >}}  
-
-### 2023/11/22 播種
 
 交配式中的 MSLRV 與 LVB 實際親本都有點不確定。  
 
@@ -30,5 +28,11 @@ LVB 賣家只說 B 是 boschiana。
 但比較常看到 veitchii 版本的 LVB 拿去做交種，於是先註記為 veitchii。  
 
 看上母本花寬唇與父本大口的特徵，希望子代能結合兩者優點。  
+
+## 栽培紀錄
+
+### 2023/11/22 播種
+
+播種後淺腰水（約 1 cm），至於塑膠箱中悶養。  
 
 ![2023-11-22](./images/2023-11-22.jpg "左側為 LVTP x MSLRVLVB，右側為 RBP x LVTP")
