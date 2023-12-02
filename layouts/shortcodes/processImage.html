@@ -1,0 +1,18 @@
+{{ $imagePath := .Get 0 }}
+{{ $width := .Get 1 }}
+{{ $figcaption := .Get 2 }}
+
+{{ with .Page.Resources.Get $imagePath }}
+  {{ with .Resize (printf "%s webp Lanczos" $width) }}
+    {{ if $figcaption }}
+      <figure>
+    {{ end }}
+
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+
+    {{ if $figcaption }}
+        <figcaption>{{ $figcaption }}</figcaption>
+      </figure>
+    {{ end }}
+  {{ end }}
+{{ end }}

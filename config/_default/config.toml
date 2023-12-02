@@ -18,7 +18,8 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]
-  anchor = 'Center'
+  anchor = 'Smart'
+  quality = 90
 
 [taxonomies]
   tag = "tags"

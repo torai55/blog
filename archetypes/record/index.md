@@ -7,9 +7,13 @@ tags: ['', 'Record']
 isCJKLanguage: true
 ---
 
-## name
+## 植物資料
+
+{{< processImage "xxx.jpg" "350x" "caption">}}
 
 中文名稱：  
 學名：**  
 購入管道：  
 購入價格：{{< inlinespoiler >}} NTD{{< /inlinespoiler >}}  
+
+## 栽培紀錄
