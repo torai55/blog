@@ -20,7 +20,7 @@ isCJKLanguage: true
 趁著價格不高買回來，看是不是豹斑交種。  
 
 > 純豹斑的紀錄在此
-{{< article link="/posts/nepenthes-burbidgeae/" >}}
+> {{< article link="posts/nepenthes-burbidgeae/" >}}
 
 ## 栽培紀錄
 
