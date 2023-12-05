@@ -9,7 +9,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-![featured](./images/2023-11-28.jpg)
+{{< processImage "featured.jpg" "350x" >}}
 
 中文名稱：鱗狀毛氈苔  
 學名：*Drosera squamosa*  
@@ -155,3 +155,9 @@ Wilson Exotics 直徑為 2mm 和 3mm 的球莖各一顆。
 已可以觀察到簇生的葉型。  
 
 ![2023-11-28](./images/2023-11-28.jpg)
+
+### 2023/12/05 第二顆球醒來
+
+第一顆球第四片展葉中，其右下角可見土表有另一芽冒出。  
+
+![2023-12-05](./images/2023-12-05.jpg)

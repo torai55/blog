@@ -7,7 +7,9 @@ tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
-## 匙葉交賈桂琳豬籠草
+## 植物資料
+
+{{< processImage "featured.jpg" "300x" >}}
 
 中文名稱：匙葉交賈桂琳豬籠草  
 學名：*Nepenthes spathulata* x *jacquelineae*  
@@ -19,10 +21,21 @@ isCJKLanguage: true
 
 ### 2023/11/04 入手
 
-寬大橢圓的唇，有種整齊規律的美感。  
+寬大橢圓的唇，非常對稱。  
 
 {{< gallery>}}
   <img src="./images/2023-11-04(1).jpg" class="grid-w33">
   <img src="./images/2023-11-04(2).jpg" class="grid-w33">
   <img src="./images/2023-11-04(3).jpg" class="grid-w33">
 {{< /gallery>}}
+
+### 2023/12/06 新葉微扭曲
+
+照片沒照到，不過新展開的葉片葉緣些微扭曲。  
+可能是環境變動、濕度不夠等因素造成，再觀察下一片葉子看看。  
+新生的瓶子剛開始是全綠的，幾天後從上面開始慢慢轉紅。  
+
+{{< gallery >}}
+  <img src="./images/2023-12-05(1).jpg" class="grid-w65">
+  <img src="./images/2023-12-05(2).jpg" class="grid-w35">
+{{< /gallery >}}
