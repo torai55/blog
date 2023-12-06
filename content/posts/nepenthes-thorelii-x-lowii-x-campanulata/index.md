@@ -7,7 +7,7 @@ tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
-## 高棉勞氏風鈴豬籠草
+## 植物資料
 
 中文名稱：高棉勞氏風鈴豬籠草，也稱老虎LC  
 學名：*Nepenthes thorelii* 'tiger' x (*lowii* x *campanulata*)  
@@ -31,3 +31,13 @@ isCJKLanguage: true
 非常強健，生長速度也很快，展葉越來越大。  
 
 ![2023-11-01](./images/2023-11-01.jpg)
+
+### 2023/12/06
+
+左圖是氣溫較高時結的瓶，顏色是紅色帶點橘。  
+右圖是一個月後氣溫降低（夜溫約 20℃）結的瓶，深紅色且能看到瓶身有點狀分佈的蜜。  
+
+{{< gallery >}}
+  <img src="./images/2023-12-06(1).jpg" class="grid-w50">
+  <img src="./images/2023-12-06(2).jpg" class="grid-w50">
+{{< /gallery >}}
