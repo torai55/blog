@@ -16,6 +16,18 @@
  weight = 10
 
 [[main]]
+  name = "Plants"
+  parent = "Posts"
+  pageRef = "categories/plants"
+  weight = 10
+
+[[main]]
+  name = "Computer Science"
+  parent = "Posts"
+  pageRef = "categories/computer-science"
+  weight = 20
+
+[[main]]
   name = "Tags"
   pageRef = "tags"
   weight = 20
@@ -56,7 +68,7 @@
 #  pageRef = "posts"
 #  weight = 20
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
