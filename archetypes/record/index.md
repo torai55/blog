@@ -9,7 +9,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-{{< processImage "xxx.jpg" "350x" "caption">}}
+{{< processImage "featured.jpg" "350x" "caption">}}
 
 中文名稱：  
 學名：**  
