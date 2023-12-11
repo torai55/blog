@@ -1,6 +1,6 @@
 {{ $imagePath := .Get 0 }}
 {{ $width := .Get 1 }}
-{{ $figcaption := .Get 2 }}
+{{ $figcaption := .Get 2 | markdownify }}
 
 {{ with .Page.Resources.Get $imagePath }}
   {{ with .Resize (printf "%s webp Lanczos" $width) }}
