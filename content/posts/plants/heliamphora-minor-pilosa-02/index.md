@@ -12,7 +12,7 @@ isCJKLanguage: true
 
 {{< processImage "featured.jpg" "350x">}}
 
-中文名稱：長毛小太陽瓶子草  
+中文名稱：批毛小太陽瓶子草  
 學名及來源：*Heliamphora minor* var. *pilosa* (Auyan) AW
 Clone：AW-H_min_pil_02 'Reddish-huge'  
 購入管道：FB 食蟲社團  

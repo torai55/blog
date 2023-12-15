@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-![parent](./images/parent.jpg "賣家的父母本")
+![parent](./images/parent.jpg "[小蝕露台](https://www.facebook.com/littlebalconyofcarnivore/) 的父母本")
 
 中文名稱：白網紋瓶子草  
 學名及來源：*Sarracenia leucophylla* var. *alba* [CK x (Hurricane Creek White clone F x self)]  

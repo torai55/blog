@@ -101,7 +101,7 @@ sparkfun 也有比較 [I2C vs UART vs SPI](https://learn.sparkfun.com/tutorials/
 
 ![dht22 spec](./images/dht22_spec.png "來源：[sparkfun](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)")
 
-## GY30 (a.k.a. BH1750FVI) light intensity sensor
+## BH1750 (a.k.a. GY30) light intensity sensor
 
 I2C 介面的光度感測器。
 
@@ -127,7 +127,7 @@ I2C 介面的小顯示器，用來顯示溫濕度等數值。
 
 {{< processImage "images/20x4-lcd-display-module.jpg" "400x" "顯示器正面，來源：[phppot](https://phppot.com/web/guide-to-setup-raspberry-pi-with-lcd-display-using-i2c-backpack/)">}}
 
-背面有黑色的 I2C adapter，上面有四個 pin。  
+背面有黑色的 I2C adapter (PCF8574)，上面有四個 pin。  
 
 - GND: 接地
 - VCC: 電源 (5V)
