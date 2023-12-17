@@ -12,6 +12,8 @@ isCJKLanguage: true
 
 ## terrarium sensor 04
 
+連接繼電器，可由時間控制燈光、由濕度控制造霧器、由溫度控制製冷設備等功能
+
 ## 參考資料
 
 - [自製日夜溫差植物生長箱](https://cp-toxin.blogspot.com/2022/01/blog-post.html)
