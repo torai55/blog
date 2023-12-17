@@ -1,7 +1,7 @@
 ---
 title: '用樹莓派打造環境監測器[03]：程式讀取感測器讀數、通知功能'
 date: 2023-12-11T16:45:10+08:00
-summary: '以 Node JS 讀取溫濕度感測器、螢幕輸出、手機通知'
+summary: '以 Python 讀取溫濕度感測器、螢幕輸出、手機通知'
 draft: false
 categories: ['Computer Science']
 tags: ['Raspberry Pi']
