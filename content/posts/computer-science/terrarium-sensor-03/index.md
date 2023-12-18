@@ -10,31 +10,6 @@ series_order: 3
 isCJKLanguage: true
 ---
 
-<!-- ## I2C
-
-- [ref0](https://www.best-microcontroller-projects.com/i2c-tutorial.html)
-- [ref1](https://www.semiee.com/file/EOL2/ROHM-BH1750FVI.pdf)
-- [ref2](https://ithelp.ithome.com.tw/articles/10269863)
-- [ref3](https://www.analog.com/cn/design-center/landing-pages/002/tech-articles-taiwan/i2c-communication-protocol-understanding-i2c-primer-pmbus-and-smbus.html)
-
-## 上拉 & 下拉電阻 (Pull-up & Pull-down resistor)
-
-上拉電阻是把電阻接在電源，在電路斷開時輸入會是 High，電路閉合時拿到 Low；  
-下拉電阻是把電阻接在接地，在電路斷開時輸入會是 Low，電路閉合時拿到 High。  
-
-![open](./images/Pull-up&Pull-down%20resistor_open.png "電路斷開圖示，來源：[上拉電阻&下拉電阻 - GPIO新手入門必知【明富其識】](https://youtu.be/k_GAuSONCqo?t=68)")
-![close](./images/Pull-up&Pull-down%20resistor_close.png "電路閉合圖示，來源：[上拉電阻&下拉電阻 - GPIO新手入門必知【明富其識】](https://youtu.be/k_GAuSONCqo?t=71)")
-
-樹莓派有內建上拉 & 下拉電阻，可用下列範例程式碼控制：  
-
-```python
-# 下拉電阻
-GPIO.setup(port_or_pin, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-
-# 上拉電阻
-GPIO.setup(port_or_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-``` -->
-
 ## 啟用 I2C 介面
 
 樹莓派預設不啟用，但感光器和螢幕都會用到，需要先手動啟用。  
@@ -97,9 +72,11 @@ GPIO.setup(port_or_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 1. `$ git clone <project-url>`：使用 git 複製專案到本地
 2. `$ cd <project-name>`：進入專案資料夾
-3. `$ poetry env use 3.10.10`：使 poetry 建立 3.10.10 的虛擬環境，相關內容在 `.venv` 資料夾內
-4. `$ poetry shell`：進入虛擬環境
-5. `$ poetry install`：使 poetry 安裝套件
+3. `$ pyenv install 3.10.10`：安裝特定版本 python 到此電腦內，若已經透過 pyenv 安裝過則可省略此指令
+4. `$ pyenv local 3.10.10`：指定 pyenv 以後在此資料夾內自動使用 3.10.10 的 python
+5. `$ poetry env use 3.10.10`：使 poetry 建立 3.10.10 的虛擬環境，相關內容在 `.venv` 資料夾內
+6. `$ poetry shell`：進入虛擬環境
+7. `$ poetry install`：使 poetry 安裝套件
 
 ### 其他指令
 
@@ -118,7 +95,7 @@ GPIO.setup(port_or_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 1. `$ sudo apt-get install libgpiod2`：安裝 `adafruit-circuitpython-dht` 套件的依賴  
 2. 在專案資料夾內 `$ poetry shell`：進入虛擬環境  
 3. `$ poetry add adafruit-circuitpython-dht`：安裝需要的套件  
-4. 新增 dht22.py，取得溫濕度：  
+4. 新增 `dht22_demo.py`，取得溫濕度：  
   完整程式碼可參考 [Github Repo](https://github.com/torai55/terrarium-sensor)
 
   使用的是 [BCM 腳位](https://pinout.xyz/)，而不是實體腳位。  
@@ -142,13 +119,13 @@ finally:
     dhtDevice.exit()
 ```
 
-5. 在虛擬環境下，執行 `$ python dht22.py` 就會在終端顯示溫濕度
+5. 在虛擬環境下，執行 `$ python dht22_demo.py` 就會在終端顯示溫濕度
 
 ## 從 GY30 取得光度紀錄
 
 1. 在專案資料夾內 `$ poetry shell`：進入虛擬環境  
 2. `$ poetry add smbus2 RPi.GPIO`：安裝需要的套件  
-3. 新增 `bh1750.py`，取得溫濕度：  
+3. 新增 `bh1750_demo.py`，取得溫濕度：  
   完整程式碼可參考 [Github Repo](https://github.com/torai55/terrarium-sensor)
 
 ```python
@@ -193,7 +170,7 @@ print("BH1750 Light Level :" + format(lightLevel, '.2f') + "lx")
 bh1750.destroy()
 ```
 
-4. 在虛擬環境下，執行 `$ python bh1750.py` 就會在終端顯示光度
+4. 在虛擬環境下，執行 `$ python bh1750_demo.py` 就會在終端顯示光度
 
 圖一、BH1750 在 I2C bus 上的位址 [^1]  
 圖二、BH1750 register 位址 [^2]  
@@ -203,7 +180,7 @@ bh1750.destroy()
 
 1. 在專案資料夾內 `$ poetry shell`：進入虛擬環境  
 2. `$ poetry add RPLCD`：安裝需要的套件  
-3. 新增 `lcd.py`，控制螢幕顯示：  
+3. 新增 `lcd_demo.py`，控制螢幕顯示：  
   完整程式碼可參考 [Github Repo](https://github.com/torai55/terrarium-sensor)
 
 ```python
@@ -219,7 +196,7 @@ lcd.backlight_enabled = False
 lcd.close(clear=True)
 ```
 
-4. 在虛擬環境下，執行 `$ python lcd.py` 就會在螢幕顯示訊息
+4. 在虛擬環境下，執行 `$ python lcd_demo.py` 就會在螢幕顯示訊息
 
 ## 時間對溫濕度的紀錄圖
 
@@ -248,10 +225,6 @@ requests.get(f"https://api.thingspeak.com/update?api_key={apiKey}&field1={temp}&
 
 - `$ crontab -l`：查看自己的 crontab
 - `$ grep -i cron /var/log/syslog`：可查看 crontab 執行紀錄
-
-## 發通知到手機 (待補)
-
-- [智慧感測與應用實務| 10: 繼電器、雲端智能家電、手機遙控智慧開關](https://medium.com/eric-y-%E8%96%AA%E7%81%AB%E7%9B%B8%E5%82%B3/%E6%99%BA%E6%85%A7%E6%84%9F%E6%B8%AC%E8%88%87%E6%87%89%E7%94%A8%E5%AF%A6%E5%8B%99-10-%E7%B9%BC%E9%9B%BB%E5%99%A8-%E9%9B%B2%E7%AB%AF%E6%99%BA%E8%83%BD%E5%AE%B6%E9%9B%BB-%E6%89%8B%E6%A9%9F%E9%81%99%E6%8E%A7%E6%99%BA%E6%85%A7%E9%96%8B%E9%97%9C-c66fba868089)
 
 ## 參考資料
 
