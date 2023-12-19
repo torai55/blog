@@ -226,6 +226,14 @@ requests.get(f"https://api.thingspeak.com/update?api_key={apiKey}&field1={temp}&
 - `$ crontab -l`：查看自己的 crontab
 - `$ grep -i cron /var/log/syslog`：可查看 crontab 執行紀錄
 
+
+## 完成參考
+
+{{< gallery >}}
+  <img src="./images/result_1.jpg" class="grid-w45">
+  <img src="./images/result_2.png" class="grid-w55">
+{{< /gallery >}}
+
 ## 參考資料
 
 - [最佳 Python 套件管理器——Poetry 完全入門指南](https://blog.kyomind.tw/python-poetry/)
