@@ -13,7 +13,7 @@ isCJKLanguage: true
 {{< processImage "featured.jpg" "350x">}}
 
 中文名稱：內布利納山太陽瓶子草  
-學名及來源：*Heliamphora beblinae* Cerro Neblina, Braz. Ven. BCP  
+學名及來源：*Heliamphora neblinae* Cerro Neblina, Braz. Ven. BCP  
 購入管道：FB 食蟲社團  
 購入價格：{{< inlinespoiler >}}1000 NTD{{< /inlinespoiler >}}  
 
@@ -25,3 +25,9 @@ isCJKLanguage: true
 悶養中。  
 
 ![2023-12-09](./images/2023-12-09.jpg)
+
+### 2023/12/25
+
+室內燈養中，日/夜溫約 22/16-17℃。  
+
+![2023-12-25](./images/2023-12-25.jpg)
