@@ -15,6 +15,6 @@ isCJKLanguage: true
 中文名稱：  
 學名：**  
 購入管道：  
-購入價格：{{< inlinespoiler >}} NTD{{< /inlinespoiler >}}  
+購入價格： NTD  
 
 ## 栽培紀錄

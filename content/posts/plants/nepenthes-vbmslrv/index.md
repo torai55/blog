@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：(維奇包希) x {大豬 x [(窄葉勞氏) x (六甲維奇)]}  
 學名交配式：*Nepenthes* (*veitchii* x *boschiana*) x {*maxima* x [(*stenophylla* x *lowii*) x ('Rokko' x *veitchii*)]}  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler >}}  
+購入價格：600 NTD  
 
 ### 2023/10/12 入手
 

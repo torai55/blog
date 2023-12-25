@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：維奇 x [(大豬包希) x 維奇]豬籠草  
 學名及產地：*Nepenthes veitchii* bario x [(*maxima* x *boschiana*) x *veitchii*]  
 購入管道：蝦皮 XD蝕驗室  
-購入價格：{{< inlinespoiler >}}620 NTD{{< /inlinespoiler >}}  
+購入價格：620 NTD  
 
 ### 2023/07/24 入手
 

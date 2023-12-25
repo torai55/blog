@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：萊佛士豬籠草  
 學名：*Nepenthes rafflesiana*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}300 NTD{{< /inlinespoiler >}}  
+購入價格：300 NTD  
 
 ### 2023/11/24 入手
 

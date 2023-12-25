@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：諾斯豬籠草  
 學名：*Nepenthes northiana*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}700 NTD{{< /inlinespoiler >}}  
+購入價格：700 NTD  
 
 ### 2023/11/07
 

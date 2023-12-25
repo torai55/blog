@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：風鈴豬籠草  
 學名：*Nepenthes campanulata*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler >}}  
+購入價格：600 NTD  
 
 ## 栽培紀錄
 

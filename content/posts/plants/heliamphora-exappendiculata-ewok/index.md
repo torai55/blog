@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：無附太陽瓶子草  
 學名：*Heliamphora exappendiculata* "Ewok"  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}1800 NTD{{< /inlinespoiler>}}
+購入價格：1800 NTD
 
 ## 栽培紀錄
 

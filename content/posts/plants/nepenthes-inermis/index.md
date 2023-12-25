@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：無刺豬籠草  
 學名及產地：*Nepenthes inermis* Mt. Talang  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}300 NTD/10 顆種子{{< /inlinespoiler >}}  
+購入價格：300 NTD/10 顆種子  
 
 無刺有特色的是無唇、大口且具有濃稠黏液的上位瓶。  
 分佈海拔 1500-2600m，妥妥的高地種，在台灣平地夏天需要放冰箱。  

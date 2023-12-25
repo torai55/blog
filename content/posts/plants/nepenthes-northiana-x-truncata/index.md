@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：諾斯寶特豬籠草  
 學名：*Nepenthes northiana* x *truncata*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}250 NTD{{< /inlinespoiler >}}  
+購入價格：250 NTD  
 
 ### 2023/09/20 入手
 

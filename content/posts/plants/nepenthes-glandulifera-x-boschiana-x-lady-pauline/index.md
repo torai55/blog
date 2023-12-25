@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：有腺包希交寶琳豬籠草  
 學名：*Nepenthes* (*glandulifera* x *boschiana*) x "Lady Pauline"  
 購入管道：建國花市  
-購入價格：{{< inlinespoiler >}}500 NTD{{< /inlinespoiler >}}  
+購入價格：500 NTD  
 
 寶琳為大豬與塔藍山的交種。  
 交上包希後整體變成黑色調，蠻喜歡這個色彩的。  

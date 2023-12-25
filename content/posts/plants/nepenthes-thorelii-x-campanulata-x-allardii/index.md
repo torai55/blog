@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：(高棉風鈴) x 阿拉蒂豬籠草  
 學名交配式：*Nepenthes* (*thorelii* x *campanulata*) x 'Allardii'  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler >}}  
+購入價格：600 NTD  
 
 N. x'Tiveyi' 和 N. x'Allardii' 都是維奇豬籠草與大豬籠草交種。  
 不過 N. x'Tiveyi' 是 N. *maxima* x *veitchii*；  

@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：小太陽瓶子草  
 學名：*Heliamphora minor*  
 購入管道：建國花市愛蘭  
-購入價格：{{< inlinespoiler >}}650 NTD{{< /inlinespoiler >}}
+購入價格：650 NTD
 
 夏季溫度：日/夜溫 26/22.5℃，使用製冷晶片小冰箱  
 冬季溫度：室溫種植。台灣冬季不需保暖設備，但過冷的氣溫會使生長速度變慢  

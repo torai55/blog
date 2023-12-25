@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：粉花愛勒氏捕蟲堇  
 學名及種源：*Pinguicula ehlersiae* { pink flw., Tolantonga, Hidalgo, Mex. }  
 購入管道：[異草堂](https://www.facebook.com/peplants/?locale=zh_TW)  
-購入價格：{{< inlinespoiler >}}300 NTD{{< /inlinespoiler >}}
+購入價格：300 NTD
 
 墨西哥系捕蟲堇。  
 原產在亞熱帶高地，冬季會降雪，夏季溫度則像台灣的三至五月一樣溫和。  

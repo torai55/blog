@@ -13,5 +13,5 @@ animals: ['cat']
 
 Meow, meow meow.
 
-Cras in facilisis neque, {{< inlinespoiler >}}<b>粗體</b> 普通{{< /inlinespoiler >}}.
+Cras in facilisis neque, <b>粗體</b> 普通.
 

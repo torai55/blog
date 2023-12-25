@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：馬桶豬籠草  
 學名：*Nepenthes jamban*  
 購入管道：台灣食蟲社團  
-購入價格：{{< inlinespoiler >}}2500 NTD{{< /inlinespoiler>}}
+購入價格：2500 NTD
 
 日/夜溫：26/23℃，使用製冷晶片小冰箱  
 濕度：70% 以上

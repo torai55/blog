@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：(勞維豹) x 維奇豬籠草  
 學名：*Nepenthes* (*lowii* x *veitchii* x *burbidgeae*) x *veitchii*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}500 NTD{{< /inlinespoiler >}}  
+購入價格：500 NTD  
 
 ### 2023/08/07
 

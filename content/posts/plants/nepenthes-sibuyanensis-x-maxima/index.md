@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：辛布大豬籠草  
 學名：*Nepenthes sibuyanensis* x *maxima*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}200 NTD{{< /inlinespoiler >}}  
+購入價格：200 NTD  
 
 ### 2023/11/04 入手
 

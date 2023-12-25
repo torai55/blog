@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：小囊太陽瓶子草  
 學名及種源：*Heliamphora folliculata* BCP  
 購入管道：台灣食蟲社團  
-購入價格： {{< inlinespoiler >}}400 NTD{{< /inlinespoiler >}}
+購入價格： 400 NTD
 
 夏季溫度：日/夜溫 26/22.5℃ ，使用製冷晶片小冰箱  
 冬季溫度：台灣冬季不需保暖設備，但過冷的氣溫會使生長速度變慢  

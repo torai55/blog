@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：匙葉交賈桂琳豬籠草  
 學名：*Nepenthes spathulata* x *jacquelineae*  
 購入管道：蝦皮 PING 樂園  
-購入價格：{{< inlinespoiler >}}1800 NTD{{< /inlinespoiler >}}  
+購入價格：1800 NTD  
 
 外觀為匙葉的斜口，加上賈桂琳寬大的唇。  
 交種後耐候性似乎蠻不錯的，個人是當作好種版的賈桂琳來對待。  

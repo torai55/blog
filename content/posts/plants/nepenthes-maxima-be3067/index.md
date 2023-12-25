@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：大豬籠草  
 學名及來源：*Nepenthes maxima* BE-3067  
 購入管道：Ping 樂園  
-購入價格：{{< inlinespoiler >}}300 NTD{{< /inlinespoiler >}}  
+購入價格：300 NTD  
 
 大豬籠草分佈海拔十分廣泛，300-2600m 都有它的蹤跡，可以推估此種對於環境的適應性非常良好。  
 也就有許多個體在市面上流通，若購買的個體來自高海拔，可能需要稍微注意夏天的降溫。  

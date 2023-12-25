@@ -12,7 +12,7 @@ isCJKLanguage: true
 中文名稱：眼鏡蛇瓶子草  
 學名：*Darlingtonia californica*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}950 NTD{{< /inlinespoiler >}}  
+購入價格：950 NTD  
 
 夏季溫度：日/夜溫 26/22.5℃，使用製冷晶片小冰箱  
 冬季溫度：能以休眠的型態度過原生地會降雪的冬季，在台灣冬季不需保暖設備  

@@ -17,7 +17,7 @@ isCJKLanguage: true
 中文名稱：鱗狀毛氈苔  
 學名：*Drosera squamosa*  
 購入管道：[光斑深林](https://www.facebook.com/HearsayCarnivorousPlant)、Wilson Exotics  
-購入價格：{{< inlinespoiler >}}600、500 NTD{{< /inlinespoiler>}}
+購入價格：600、500 NTD
 
 生長於澳洲西南部，為夏乾冬雨的溫帶地中海型氣候。  
 在炎熱乾燥的夏季休眠；溫和多雨的冬季生長。

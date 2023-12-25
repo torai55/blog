@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：阿里豬籠草  
 學名：*Nepenthes* x 'Alisaputrana'  
 購入管道：2023 台北食蟲植物交流會  
-購入價格：{{< inlinespoiler >}}700 NTD{{< /inlinespoiler >}}  
+購入價格：700 NTD  
 
 豹班與馬來王的自然雜交種，約生長在海拔 2000 m。  
 外觀上保留了馬來王寬唇巨瓶的特色。  

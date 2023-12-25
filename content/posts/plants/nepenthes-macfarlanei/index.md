@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：疑似麥克法蘭豬龍草  
 學名：*Nepenthes* cf. *macfarlanei*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}200 NTD{{< /inlinespoiler >}}  
+購入價格：200 NTD  
 
 ### 2023/09/19 入手
 

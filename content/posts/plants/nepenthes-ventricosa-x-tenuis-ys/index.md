@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：葫蘆交細豬籠草  
 學名及來源：*Nepenthes ventricosa* (a) x *tenuis* Y's  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}1000 NTD{{< /inlinespoiler >}}  
+購入價格：1000 NTD  
 
 細豬籠草生長在蘇門答臘高地雲霧林的山脊處，溫度變化大。  
 海拔約 1000~1200m，不是非常高，可推測此種較其他中高地豬籠草好種。  

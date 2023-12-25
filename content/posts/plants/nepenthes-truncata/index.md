@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：寶特瓶豬籠草  
 學名：*Nepenthes truncata*  
 購入管道：蝦皮 CarnivoRUs 珍奇植物  
-購入價格：{{< inlinespoiler >}}449 NTD{{< /inlinespoiler >}}  
+購入價格：449 NTD  
 
 ### 2023/07/24 入手
 

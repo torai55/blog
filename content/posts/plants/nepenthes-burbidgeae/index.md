@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：豹班豬籠草  
 學名：*Nepenthes burbidgeae*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}1200 NTD{{< /inlinespoiler >}}  
+購入價格：1200 NTD  
 
 ## 栽培紀錄
 

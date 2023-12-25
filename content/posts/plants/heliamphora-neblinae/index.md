@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：內布利納山太陽瓶子草  
 學名及來源：*Heliamphora neblinae* Cerro Neblina, Braz. Ven. BCP  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}1000 NTD{{< /inlinespoiler >}}  
+購入價格：1000 NTD  
 
 ## 栽培紀錄
 

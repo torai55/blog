@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：包希交維奇豬籠草  
 學名及產地：*Nepenthes boschiana* x *veitchii* Bario  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}500 NTD{{< /inlinespoiler >}}  
+購入價格：500 NTD  
 
 *veitchii* Bario，後面的 Bario 指的是產地。不算在學名的格式中。  
 

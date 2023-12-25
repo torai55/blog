@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：CK 維奇豬籠草  
 學名及來源：*Nepenthes veitchii* Gunung Murud Striped x *veitchii* Candy Stripe  
 購入管道：蝦皮 PING 樂園  
-購入價格：{{< inlinespoiler >}}1000 NTD{{< /inlinespoiler >}}  
+購入價格：1000 NTD  
 
 ### 2023/08/07 入手
 

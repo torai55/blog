@@ -16,7 +16,7 @@ isCJKLanguage: true
 學名及來源：*Heliamphora minor* var. *pilosa* (Auyan) AW
 Clone：AW-H_min_pil_02 'Reddish-huge'  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}600 NTD{{< /inlinespoiler >}}  
+購入價格：600 NTD  
 
 成株瓶子內側能看到明顯絨毛的小太陽變種。  
 

@@ -13,7 +13,7 @@ isCJKLanguage: true
 中文名稱：有腺豹班豬籠草  
 學名：*Nepenthes glandulifera* x *burbidgeae*  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}1000 NTD{{< /inlinespoiler >}}  
+購入價格：1000 NTD  
 
 ### 2023/11/07
 

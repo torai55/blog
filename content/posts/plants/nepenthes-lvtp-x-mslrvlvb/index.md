@@ -15,7 +15,7 @@ isCJKLanguage: true
 中文名稱：[(勞氏維奇) x (大豬維奇) x 寬唇] x {{大豬 x [(窄葉勞氏) x (六甲維奇)]} x [(勞氏維奇) x 包希]}  
 學名交配式：*Nepenthes* [(*lowii* x *veitchii*) x 'Tiveyi' x *platychila*] x {{*maxima* x [(*stenophylla* x *lowii*) x ('Rokko' x *veitchii*)]} x [(*lowii* x *veitchii*) x *boschiana*]}  
 購入管道：FB 食蟲社團  
-購入價格：{{< inlinespoiler >}}350 NTD/20 顆種子{{< /inlinespoiler >}}  
+購入價格：350 NTD/20 顆種子  
 
 交配式中的 MSLRV 與 LVB 實際親本都有點不確定。  
 
@@ -37,3 +37,9 @@ LVB 賣家只說 B 是 boschiana。
 播種後淺腰水（約 1 cm），至於塑膠箱中悶養。  
 
 ![2023-11-22](./images/2023-11-22.jpg "左側為 LVTP x MSLRVLVB，右側為 RBP x LVTP")
+
+### 2023/12/25 發芽
+
+目前可觀察到七棵發芽。  
+
+![2023-12-25](./images/2023-12-25.jpg)
