@@ -33,7 +33,7 @@ isCJKLanguage: true
 
 ![2023-11-01](./images/2023-11-01.jpg)
 
-### 2023/12/06
+### 2023/12/06 瓶身分泌醣液
 
 左圖是氣溫較高時結的瓶，顏色是紅色帶點橘。  
 右圖是一個月後氣溫降低（夜溫約 20℃）結的瓶，深紅色且能看到兩翼之間和瓶身有點狀分佈的蜜。  
@@ -41,4 +41,13 @@ isCJKLanguage: true
 {{< gallery >}}
   <img src="./images/2023-12-06(1).jpg" class="grid-w50">
   <img src="./images/2023-12-06(2).jpg" class="grid-w50">
+{{< /gallery >}}
+
+### 2024/01/02 籠蓋分泌醣液
+
+日夜溫 22℃/17℃ 的情況下，籠蓋下表面可見些微的白色分泌物。  
+
+{{< gallery >}}
+  <img src="./images/2024-01-02(1).jpg" class="grid-w50">
+  <img src="./images/2024-01-02(2).jpg" class="grid-w50">
 {{< /gallery >}}

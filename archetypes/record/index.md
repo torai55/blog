@@ -4,7 +4,7 @@ date: {{ .Date }}
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Record', '']
+tags: ['', 'Record']
 isCJKLanguage: true
 ---
 
