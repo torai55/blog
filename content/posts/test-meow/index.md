@@ -2,11 +2,11 @@
 title: 'My First Meow'
 date: 2022-11-20T09:03:20-08:00
 draft: true
-tags: ['test', 'first']
+tags: ['test']
 categories: ['Development', 'Production']
 series: ['Meow']
 series_order: 1
-animals: ['human', 'cat']
+animals: ['cat']
 isCJKLanguage: true
 summary: 'The summary for the content.'
 ---

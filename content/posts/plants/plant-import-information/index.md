@@ -4,7 +4,7 @@ date: 2024-01-04T14:05:54+08:00
 summary: '植物進口程序'
 draft: true
 categories: ['Plants']
-tags: ['Import']
+tags: ['Import', 'Draft']
 isCJKLanguage: true
 ---
 
