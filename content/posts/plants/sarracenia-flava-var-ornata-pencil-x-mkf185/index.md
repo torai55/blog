@@ -1,5 +1,5 @@
 ---
-title: 'Sarracenia flava var ornata "Pencil" (Matt Soper clone x MK F185)'
+title: 'Sarracenia flava var ornata "Pencil" (Matt Soper clone x MK F185) 黃瓶子草'
 date: 2023-12-15T14:55:05+08:00
 summary: '栽培紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes spathulata x jacquelineae'
+title: 'Nepenthes spathulata x jacquelineae 匙葉交賈桂琳豬籠草'
 date: 2023-11-05T19:02:53+08:00
 summary: '栽培紀錄'
 draft: false

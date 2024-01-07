@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes veitchii bario x [(maxima x boschiana) x veitchii]'
+title: 'Nepenthes veitchii bario x [(maxima x boschiana) x veitchii] 維奇 x [(大豬包希) x 維奇]豬籠草'
 date: 2023-11-07T17:47:15+08:00
 summary: '栽培紀錄'
 draft: false

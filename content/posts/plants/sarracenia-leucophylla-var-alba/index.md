@@ -1,5 +1,5 @@
 ---
-title: 'Sarracenia leucophylla var. alba [CK x (HCW clone F x self)]'
+title: 'Sarracenia leucophylla var. alba [CK x (HCW clone F x self)] 白網紋瓶子草'
 date: 2023-11-06T21:42:21+08:00
 summary: '栽培紀錄'
 draft: false

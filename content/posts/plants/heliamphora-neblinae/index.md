@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora neblinae'
+title: 'Heliamphora neblinae 內布利納山太陽瓶子草'
 date: 2023-12-10T02:00:31+08:00
 summary: '栽培紀錄'
 draft: false

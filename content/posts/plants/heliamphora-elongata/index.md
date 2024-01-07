@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora elongata'
+title: 'Heliamphora elongata 瘦長太陽瓶子草'
 date: 2023-08-18T15:40:56+08:00
 summary: '栽培過程紀錄'
 draft: false

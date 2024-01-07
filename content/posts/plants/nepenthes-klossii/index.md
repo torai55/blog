@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes klossii black'
+title: 'Nepenthes klossii black 實生黑克羅斯豬籠草'
 date: 2024-01-05T19:51:41+08:00
 summary: '栽培紀錄'
 draft: true

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes northiana x truncata'
+title: 'Nepenthes northiana x truncata 諾斯寶特豬籠草'
 date: 2023-11-06T20:19:46+08:00
 summary: '栽培紀錄'
 draft: false

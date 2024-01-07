@@ -1,10 +1,10 @@
 ---
-title: 'Nepenthes rafflesiana'
+title: 'Nepenthes rafflesiana 萊佛士豬籠草'
 date: 2023-11-28T23:20:02+08:00
 summary: '栽培紀錄'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Nepenthes', 'Record']
+tags: ['Nepenthes', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

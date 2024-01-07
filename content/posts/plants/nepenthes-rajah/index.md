@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes rajah'
+title: 'Nepenthes rajah 馬來王豬籠草'
 date: 2023-12-25T16:54:29+08:00
 summary: '栽培紀錄'
 draft: false

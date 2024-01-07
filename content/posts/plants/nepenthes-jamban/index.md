@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes jamban'
+title: 'Nepenthes jamban 馬桶豬籠草'
 date: 2023-08-21T18:55:10+08:00
 summary: '馬桶豬籠草的栽培紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes sibuyanensis x robcantleyi'
+title: 'Nepenthes sibuyanensis x robcantleyi 辛布亞交黑寶特豬籠草'
 date: 2023-12-01T18:11:40+08:00
 summary: '栽培紀錄'
 draft: false

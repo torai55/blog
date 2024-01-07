@@ -1,5 +1,5 @@
 ---
-title: "Nepenthes ventricosa x tenuis Y's"
+title: "Nepenthes ventricosa x tenuis Y's 山田葫蘆交細豬籠草"
 date: 2023-12-02T21:52:34+08:00
 summary: '栽培紀錄'
 draft: false

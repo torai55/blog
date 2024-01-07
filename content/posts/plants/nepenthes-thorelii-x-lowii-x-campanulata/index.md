@@ -1,5 +1,5 @@
 ---
-title: "Nepenthes thorelii 'tiger' x (lowii x campanulata)"
+title: "Nepenthes thorelii 'tiger' x (lowii x campanulata) 老虎LC"
 date: 2023-11-06T17:12:04+08:00
 summary: '栽培紀錄'
 draft: false

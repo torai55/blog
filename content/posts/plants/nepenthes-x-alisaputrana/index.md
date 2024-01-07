@@ -1,5 +1,5 @@
 ---
-title: "Nepenthes x 'Alisaputrana'"
+title: "Nepenthes x 'Alisaputrana' 阿里豬籠草"
 date: 2023-11-05T20:47:20+08:00
 summary: '栽培紀錄'
 draft: false

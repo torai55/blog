@@ -1,5 +1,5 @@
 ---
-title: 'Pinguicula ehlersiae Pink Flower'
+title: 'Pinguicula ehlersiae Pink Flower 粉花愛勒氏捕蟲堇'
 date: 2023-08-30T22:29:31+08:00
 summary: '粉花愛勒氏捕蟲堇栽培紀錄'
 draft: false

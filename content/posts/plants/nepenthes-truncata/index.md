@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes truncata'
+title: 'Nepenthes truncata 寶特瓶豬籠草'
 date: 2023-11-07T17:11:12+08:00
 summary: '栽培紀錄'
 draft: false

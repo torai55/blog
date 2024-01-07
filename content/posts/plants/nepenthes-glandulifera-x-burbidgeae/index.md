@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes glandulifera x burbidgeae'
+title: 'Nepenthes glandulifera x burbidgeae 有腺豹班豬籠草'
 date: 2023-11-08T16:34:51+08:00
 summary: '栽培紀錄'
 draft: false

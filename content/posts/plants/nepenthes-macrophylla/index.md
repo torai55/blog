@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes macrophylla'
+title: 'Nepenthes macrophylla 實生大葉豬籠草'
 date: 2024-01-05T19:50:57+08:00
 summary: '栽培紀錄'
 draft: true

@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora folliculata BCP'
+title: 'Heliamphora folliculata BCP 小囊太陽瓶子草'
 date: 2023-08-18T15:15:57+08:00
 summary: '栽培過程紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes sibuyanensis'
+title: 'Nepenthes sibuyanensis 辛布亞島豬籠草'
 date: 2023-12-10T02:01:51+08:00
 summary: '栽培紀錄'
 draft: false

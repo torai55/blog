@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes boschiana x veitchii Bario'
+title: 'Nepenthes boschiana x veitchii Bario 包希交維奇豬籠草'
 date: 2023-11-05T21:16:08+08:00
 summary: '栽培紀錄'
 draft: false

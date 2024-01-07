@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes sibuyanensis x maxima'
+title: 'Nepenthes sibuyanensis x maxima 辛布大豬籠草'
 date: 2023-11-06T20:48:53+08:00
 summary: '栽培紀錄'
 draft: false

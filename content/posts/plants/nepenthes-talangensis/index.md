@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes talangensis Mt. Talan'
+title: 'Nepenthes talangensis Mt. Talan 實生塔蘭山豬籠草'
 date: 2023-12-01T18:12:15+08:00
 summary: '栽培紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Dionaea muscipula "Coquillage"'
+title: 'Dionaea muscipula "Coquillage" 貝殼捕蠅草'
 date: 2024-01-05T23:44:23+08:00
 summary: '栽培紀錄'
 draft: true

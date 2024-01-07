@@ -1,5 +1,5 @@
 ---
-title: 'Darlingtonia californica'
+title: 'Darlingtonia californica 眼鏡蛇瓶子草'
 date: 2023-11-03T23:06:19+08:00
 summary: '栽培過程紀錄'
 draft: false

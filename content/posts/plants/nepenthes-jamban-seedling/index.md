@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes jamban seedling'
+title: 'Nepenthes jamban seedling 實生馬桶豬籠草'
 date: 2024-01-05T20:21:16+08:00
 summary: '栽培紀錄'
 draft: true

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes ventricosa x lowii'
+title: 'Nepenthes ventricosa x lowii 黑精靈豬籠草'
 date: 2023-11-05T22:16:28+08:00
 summary: '栽培紀錄'
 draft: false

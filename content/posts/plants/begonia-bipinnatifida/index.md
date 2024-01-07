@@ -1,5 +1,5 @@
 ---
-title: 'Begonia bipinnatifida'
+title: 'Begonia bipinnatifida 二回羽裂秋海棠'
 date: 2024-01-05T22:57:09+08:00
 summary: '栽培紀錄'
 draft: false
@@ -35,5 +35,9 @@ isCJKLanguage: true
 ### 2024/01/05
 
 砍頂芽扦插。  
+左圖為上半段，右圖為下半段。  
 
-![2024-01-05](./images/2024-01-05.jpg)
+{{< gallery >}}
+  <img src="./images/2024-01-05.jpg" class="grid-w50">
+  <img src="./images/2024-01-07.jpg" class="grid-w50">
+{{< /gallery >}}

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes (glandulifera x boschiana) x "Lady Pauline"'
+title: 'Nepenthes (glandulifera x boschiana) x "Lady Pauline" 有腺包希交寶琳豬籠草'
 date: 2023-11-05T23:33:37+08:00
 summary: '栽培紀錄'
 draft: false

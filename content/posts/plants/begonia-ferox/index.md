@@ -1,5 +1,5 @@
 ---
-title: 'Begonia ferox'
+title: 'Begonia ferox 黑峰秋海棠'
 date: 2024-01-05T21:59:25+08:00
 summary: '栽培紀錄'
 draft: false

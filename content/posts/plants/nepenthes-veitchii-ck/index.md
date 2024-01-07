@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes veitchii Gunung Murud Striped x veitchii Candy Stripe'
+title: 'Nepenthes veitchii Gunung Murud Striped x veitchii Candy Stripe 德國 CK 維奇豬籠草'
 date: 2023-11-07T18:10:14+08:00
 summary: '栽培紀錄'
 draft: false

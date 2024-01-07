@@ -1,5 +1,5 @@
 ---
-title: 'Drosera squamosa'
+title: 'Drosera squamosa 鱗狀毛氈苔'
 date: 2023-08-20T21:55:51+08:00
 summary: '鱗狀毛氈苔的栽培紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes pitopangii'
+title: 'Nepenthes pitopangii 皮托龐豬籠草'
 date: 2023-11-06T14:31:13+08:00
 summary: '栽培紀錄'
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes cf. macfarlanei'
+title: 'Nepenthes cf. macfarlanei 疑似麥克法蘭豬龍草'
 date: 2023-11-06T15:18:48+08:00
 summary: '栽培紀錄'
 draft: false

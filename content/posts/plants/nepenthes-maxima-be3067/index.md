@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes maxima BE-3067'
+title: 'Nepenthes maxima BE-3067 大豬籠草'
 date: 2023-12-11T14:39:21+08:00
 summary: '栽培紀錄'
 draft: false

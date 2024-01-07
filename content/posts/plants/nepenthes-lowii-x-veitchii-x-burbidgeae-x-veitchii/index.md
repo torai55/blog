@@ -1,5 +1,5 @@
 ---
-title: 'Nepenthes (lowii x veitchii x burbidgeae) x veitchii'
+title: 'Nepenthes (lowii x veitchii x burbidgeae) x veitchii (勞維豹) x 維奇豬籠草'
 date: 2023-11-08T16:26:54+08:00
 summary: '栽培紀錄'
 draft: false

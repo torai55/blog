@@ -1,5 +1,5 @@
 ---
-title: "Nepenthes (thorelii x campanulata) x 'Allardii'"
+title: "Nepenthes (thorelii x campanulata) x 'Allardii' (高棉風鈴) x 阿拉蒂豬籠草"
 date: 2023-12-01T18:10:31+08:00
 summary: '栽培紀錄'
 draft: false

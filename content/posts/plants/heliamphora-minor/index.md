@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora minor'
+title: 'Heliamphora minor 小太陽瓶子草'
 date: 2023-08-20T14:03:23+08:00
 summary: '栽培過程紀錄'
 draft: false

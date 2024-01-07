@@ -1,5 +1,5 @@
 ---
-title: 'Heliamphora sarracenioides'
+title: 'Heliamphora sarracenioides 似瓶太陽瓶子草'
 date: 2023-11-05T20:25:05+08:00
 summary: '栽培紀錄'
 draft: false

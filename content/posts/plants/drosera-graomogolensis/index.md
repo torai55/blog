@@ -1,5 +1,5 @@
 ---
-title: 'Drosera graomogolensis'
+title: 'Drosera graomogolensis 格拉莫哥毛氈苔'
 date: 2024-01-05T23:21:56+08:00
 summary: '栽培紀錄'
 draft: true
@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-中文名稱：格拉莫哥毛氈苔、香花毛氈苔  
+中文名稱：格拉莫哥毛氈苔  
 學名：*Drosera graomogolensis*  
 購入管道：蝦皮  
 購入價格：390 NTD  
