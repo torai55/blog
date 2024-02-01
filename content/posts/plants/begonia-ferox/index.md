@@ -38,3 +38,9 @@ isCJKLanguage: true
  <img src="./images/2024-01-01.jpg" class="grid-w50">
  <img src="./images/2024-01-02.jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/01/24
+
+自從新葉子從土中冒出後，成長速度快了許多。  
+
+![2024-01-24](./images/2024-01-24.jpg)

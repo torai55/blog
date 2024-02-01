@@ -1,7 +1,7 @@
 ---
 title: 'Nepenthes rafflesiana 萊佛士豬籠草'
 date: 2023-11-28T23:20:02+08:00
-summary: '栽培紀錄'
+summary: '栽培紀錄（已陣亡）'
 draft: true
 categories: ['Plants']
 tags: ['Nepenthes', 'Record', 'Draft']
@@ -25,3 +25,7 @@ isCJKLanguage: true
   <img src="./images/2023-11-24(1).jpg" class="grid-w50">
   <img src="./images/2023-11-24(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/01 死亡
+
+根系健康，不過來了之後葉片快速枯萎，套袋悶養也沒用。  

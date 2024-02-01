@@ -1,10 +1,10 @@
 ---
 title: 'Nepenthes campanulata 風鈴豬籠草'
 date: 2023-11-08T16:27:11+08:00
-summary: '栽培紀錄'
-draft: false
+summary: '栽培紀錄（已陣亡）'
+draft: true
 categories: ['Plants']
-tags: ['Nepenthes', 'Record']
+tags: ['Nepenthes', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 
@@ -24,3 +24,7 @@ isCJKLanguage: true
 目前套袋悶養中，目標是逐漸降低濕度以適應室內環境。  
 
 ![2023-11-07](./images/2023-11-07.jpg)
+
+### 2024/01 黑心死亡
+
+套袋悶養時，因為中心長期積水而爛心死亡。  
