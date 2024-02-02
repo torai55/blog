@@ -8,7 +8,7 @@ tags: ['Heliamphora', 'Record']
 isCJKLanguage: true
 ---
 
-## 艾俄那西太陽瓶子草
+## 植物資料
 
 中文名稱：艾俄那西太陽瓶子草  
 學名：*Heliamphora ionasi* "Red Striped"  
@@ -69,3 +69,10 @@ isCJKLanguage: true
   <img src="./images/2023-11-01(2).jpg" class="grid-w33" />
   <img src="./images/2023-11-01(3).jpg" class="grid-w33" />
 {{< /gallery>}}
+
+### 2024/02/02
+
+葉子顏色有點怪，不過有在持續生長。  
+冬天濕度低的時候會噴水，老葉乾枯的情況有減緩了。  
+
+![2024-02-02](./images/2024-02-02.jpg)

@@ -41,3 +41,9 @@ isCJKLanguage: true
 <img src="./images/2023-12-25(2).jpg" class="grid-w50">
 <img src="./images/2023-12-25(3).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/02/02
+
+之前的葉片形狀較細長，入手後長的葉片較圓，不確定是什麼原因。  
+
+![2024-02-02](./images/2024-02-02.jpg)

@@ -21,8 +21,8 @@ isCJKLanguage: true
 ### 2023/08/12 入手
 
 {{< gallery >}}
-<img src="./images/2023-08-12(1).jpg" class="grid-w50">
-<img src="./images/2023-08-12(2).jpg" class="grid-w50">
+  <img src="./images/2023-08-12(1).jpg" class="grid-w50">
+  <img src="./images/2023-08-12(2).jpg" class="grid-w50">
 {{< /gallery >}}
 
 ### 2023/11/07
@@ -30,3 +30,14 @@ isCJKLanguage: true
 持續跳葉，但無法結瓶，應該是濕度不夠。  
 
 ![2023-11-07](./images/2023-11-07.jpg)
+
+### 2024/02/02
+
+前兩張是環境變化，結瓶到一半就不再變大的畸形瓶。  
+第三張是穩定濕度下結到一半的瓶子，實際大小是畸形瓶的兩倍。  
+
+{{< gallery >}}
+  <img src="./images/2024-02-02(1).jpg" class="grid-w33">
+  <img src="./images/2024-02-02(2).jpg" class="grid-w33">
+  <img src="./images/2024-02-02(3).jpg" class="grid-w33">
+{{< /gallery >}}

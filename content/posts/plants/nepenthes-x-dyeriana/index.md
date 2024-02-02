@@ -25,3 +25,10 @@ isCJKLanguage: true
 <img src="./images/2023-11-04(1).jpg" class="grid-w50">
 <img src="./images/2023-11-04(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/02/02
+
+入手後結的第一瓶。  
+亞成瓶，看不見花純，希望快點長大。  
+
+![2024-02-02](./images/2024-02-02.jpg)

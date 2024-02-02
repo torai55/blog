@@ -38,3 +38,13 @@ isCJKLanguage: true
 最新未展開的葉片變得很大，應該回到正常狀態了。  
 
 ![2023-11-05](./images/2023-11-05.jpg)
+
+### 2024/02/02
+
+冬天氣溫降低後跳葉，但目前沒結任何瓶子。  
+右圖為杯狀的畸形葉。  
+
+{{< gallery >}}
+  <img src="./images/2024-02-02(1).jpg" class="grid-w50">
+  <img src="./images/2024-02-02(2).jpg" class="grid-w50">
+{{< /gallery >}}

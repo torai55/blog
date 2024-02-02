@@ -28,3 +28,12 @@ isCJKLanguage: true
 賣家說是實生苗，不過目前已經能觀察到花唇表現。  
 
 ![2023-11-04](./images/2023-11-04.jpg "可觀察到花唇")
+
+### 2024/02/02
+
+入手後第一瓶，生長速度還算快速。  
+
+{{< gallery >}}
+  <img src="./images/2024-02-02(1).jpg" class="grid-w50">
+  <img src="./images/2024-02-02(2).jpg" class="grid-w50">
+{{< /gallery >}}

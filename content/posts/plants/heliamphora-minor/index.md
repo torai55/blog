@@ -110,3 +110,7 @@ isCJKLanguage: true
   <img src="./images/2023-12-05(2).jpg" class="grid-w33">
   <img src="./images/2023-12-05(3).jpg" class="grid-w33">
 {{< /gallery >}}
+
+### 2024/02/02
+
+![2024-02-02](./images/2024-02-02.jpg)

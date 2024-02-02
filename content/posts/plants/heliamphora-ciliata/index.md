@@ -8,7 +8,7 @@ tags: ['Heliamphora', 'Record']
 isCJKLanguage: true
 ---
 
-## 絨毛太陽瓶子草
+## 植物資料
 
 中文名稱：絨毛太陽瓶子草  
 學名：*Heliamphora ciliata*  
@@ -31,3 +31,7 @@ isCJKLanguage: true
 室內燈養中，日/夜溫約 22/16-17℃。  
 
 ![2023-12-25](./images/2023-12-25.jpg)
+
+### 2024/02/02
+
+![2024-02-02](./images/2024-02-02.jpg)

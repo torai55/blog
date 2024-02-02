@@ -2,7 +2,7 @@
 title: 'Drosera graomogolensis 格拉莫哥毛氈苔'
 date: 2024-01-05T23:21:56+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
 tags: ['Drosera', 'Record', 'Draft']
 isCJKLanguage: true
@@ -26,6 +26,14 @@ isCJKLanguage: true
 植株狀態感覺沒有很好，先用低光淺腰水悶養。  
 
 ![2023-12-12](./images/2023-12-12.jpg)
+
+### 2024/02/02
+
+原本的葉片枯萎到剩下兩片，現在看到的葉片大多是入手後重新長的。  
+看植株沒有再枯葉，情況穩定後移除悶養蓋子，不過還是放置在低光高濕度的地方。  
+左側葉片尖端有小芽產生。  
+
+![2023-02-02](./images/2024-02-02.jpg)
 
 ## 參考資料
 

@@ -8,7 +8,7 @@ tags: ['Heliamphora', 'Record']
 isCJKLanguage: true
 ---
 
-## 小囊太陽瓶子草 BCP
+## 植物資料
 
 中文名稱：小囊太陽瓶子草  
 學名及種源：*Heliamphora folliculata* BCP  
@@ -57,3 +57,7 @@ isCJKLanguage: true
 因為最近濕度波動大，有些葉片開始枯萎。  
 
 ![2023-12-25](./images/2023-12-25.jpg)
+
+### 2024/02/02
+
+![2024-02-02](./images/2024-02-02.jpg)
