@@ -33,3 +33,11 @@ N. x'Allardii' 則是 N. *veitchii* x *maxima*。
   <img src="./images/2023-11-30(1).jpg" class="grid-w50">
   <img src="./images/2023-11-30(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/02/05
+
+左側的新瓶子，顏色沒有原本瓶子那麼鮮豔。  
+這陣子冬天，溫度應該不是問題。  
+猜測是換環境導致瓶子生長不良。  
+
+![2024-02-05](./images/2024-02-05.jpg)

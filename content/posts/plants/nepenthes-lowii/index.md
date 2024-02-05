@@ -2,9 +2,9 @@
 title: 'Nepenthes lowii 勞氏豬籠草'
 date: 2024-02-02T00:39:25+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
-tags: ['Nepenthes', 'Record', 'Draft']
+tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
