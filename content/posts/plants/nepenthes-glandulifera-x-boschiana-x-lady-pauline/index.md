@@ -41,3 +41,13 @@ isCJKLanguage: true
   <img src="./images/2024-02-02(2).jpg" class="grid-w33">
   <img src="./images/2024-02-02(3).jpg" class="grid-w33">
 {{< /gallery >}}
+
+### 2024/02/21 第一個瓶子
+
+在濕度較高的地方終於結了第一個正常瓶，唇比剛買來的時候寬。  
+手感有點像絨布，瓶身有一點糖蜜。  
+
+{{< gallery >}}
+  <img src="./images/2024-02-21(1).jpg" class="grid-w50">
+  <img src="./images/2024-02-21(2).jpg" class="grid-w50">
+{{< /gallery >}}

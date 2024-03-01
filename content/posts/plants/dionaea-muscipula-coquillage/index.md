@@ -1,10 +1,10 @@
 ---
 title: 'Dionaea muscipula "Coquillage" 貝殼捕蠅草'
 date: 2024-01-05T23:44:23+08:00
-summary: '栽培紀錄'
+summary: '栽培紀錄（已陣亡）'
 draft: true
 categories: ['Plants']
-tags: ['Dionaea', 'Record', 'Draft']
+tags: ['Dionaea', 'Record', 'Dead']
 isCJKLanguage: true
 ---
 

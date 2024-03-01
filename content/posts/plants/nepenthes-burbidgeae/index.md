@@ -48,3 +48,7 @@ isCJKLanguage: true
   <img src="./images/2024-02-02(1).jpg" class="grid-w50">
   <img src="./images/2024-02-02(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/02/18 第一個瓶子
+
+![2024-02-18](./images/2024-02-18.jpg)

@@ -40,3 +40,14 @@ isCJKLanguage: true
   <img src="./images/2023-12-05(1).jpg" class="grid-w65">
   <img src="./images/2023-12-05(2).jpg" class="grid-w35">
 {{< /gallery >}}
+
+### 2024/02/27 開始轉中位瓶
+
+唇變寬，且翼的特徵變得較不明顯。  
+
+{{< gallery >}}
+  <img src="./images/2024-02-21.jpg" class="grid-w25">
+  <img src="./images/2024-02-24.jpg" class="grid-w25">
+  <img src="./images/2024-02-27(1).jpg" class="grid-w25">
+  <img src="./images/2024-02-27(2).jpg" class="grid-w25">
+{{< /gallery >}}

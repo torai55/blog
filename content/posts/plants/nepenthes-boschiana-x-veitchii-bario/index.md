@@ -34,6 +34,7 @@ isCJKLanguage: true
 入手後第一瓶，生長速度還算快速。  
 
 {{< gallery >}}
-  <img src="./images/2024-02-02(1).jpg" class="grid-w50">
+  <img src="./images/2024-02-02(1).jpg" class="grid-w65">
   <img src="./images/2024-02-02(2).jpg" class="grid-w50">
+  <img src="./images/2024-02-24.jpg" class="grid-w50">
 {{< /gallery >}}

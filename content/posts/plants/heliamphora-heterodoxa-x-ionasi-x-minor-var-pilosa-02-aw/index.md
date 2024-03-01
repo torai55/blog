@@ -63,3 +63,11 @@ isCJKLanguage: true
 > {{< article  link="posts/plants/heliamphora-minor/" >}}
 
 ![2023-12-14](./images/2023-12-14.jpg)
+
+### 2024/02/28
+
+{{< gallery >}}
+  <img src="./images/2024-02-28(1).jpg" class="grid-w33">
+  <img src="./images/2024-02-28(2).jpg" class="grid-w33">
+  <img src="./images/2024-02-28(3).jpg" class="grid-w33">
+{{< /gallery >}}

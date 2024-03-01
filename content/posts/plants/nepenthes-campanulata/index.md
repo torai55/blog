@@ -4,7 +4,7 @@ date: 2023-11-08T16:27:11+08:00
 summary: '栽培紀錄（已陣亡）'
 draft: true
 categories: ['Plants']
-tags: ['Nepenthes', 'Record', 'Draft']
+tags: ['Nepenthes', 'Record', 'Dead']
 isCJKLanguage: true
 ---
 
