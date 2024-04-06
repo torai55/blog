@@ -4,7 +4,7 @@ date: 2024-03-01T22:29:33+08:00
 summary: '栽培紀錄'
 draft: false
 categories: ['Plants']
-tags: ['Nepenths', 'Record']
+tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
