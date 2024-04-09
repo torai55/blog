@@ -51,3 +51,13 @@ isCJKLanguage: true
   <img src="./images/2024-02-21(1).jpg" class="grid-w50">
   <img src="./images/2024-02-21(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/04/01
+
+第二個瓶子因為籠蔓太長，變成橫躺在其他盆栽土表生長。  
+被擠得有點變形，從側面看反而有點馬兜鈴豬籠草的感覺，很酷。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-01(1).jpg" class="grid-w50">
+  <img src="./images/2024-04-01(2).jpg" class="grid-w50">
+{{< /gallery >}}

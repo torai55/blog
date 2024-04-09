@@ -8,7 +8,9 @@ tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
-## 黑精靈豬籠草
+## 植物資料
+
+{{< processImage "featured.jpg" "350x">}}
 
 中文名稱：黑精靈豬籠草  
 學名：*Nepenthes ventricosa* x *lowii* ?  
@@ -17,6 +19,8 @@ isCJKLanguage: true
 中國那邊組培出來的一批 LV。  
 因為血統不確定，後來被玩家自行命名d為黑精靈，或稱假 LV。  
 表現上容易比 EP 的 VL 瓶子顏色來得深紅，且更加耐熱。  
+
+## 栽培紀錄
 
 ### 2023/07/03 入手
 
@@ -47,4 +51,20 @@ isCJKLanguage: true
 {{< gallery >}}
   <img src="./images/2024-02-02(1).jpg" class="grid-w50">
   <img src="./images/2024-02-02(2).jpg" class="grid-w50">
+{{< /gallery >}}
+
+### 2024/03/03
+
+降溫後第一個抽長的籠蔓。  
+
+![2024-03-03](./images/2024-03-03.jpg)
+
+### 2024/04
+
+第一個抽長的籠蔓終於膨大成捕蟲瓶。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-01.jpg" class="grid-w33">
+  <img src="./images/2024-04-06.jpg" class="grid-w33">
+  <img src="./images/2024-04-08.jpg" class="grid-w33">
 {{< /gallery >}}

@@ -10,6 +10,8 @@ isCJKLanguage: true
 
 ## 植物資料
 
+{{< processImage "featured.jpg" "350x">}}
+
 中文名稱：(另解太陽瓶子草 x 艾俄那西太陽瓶子草) x 披毛小太陽瓶子草  
 學名及種源：*Heliamphora* (*heterodoxa* x *ionasi*) x *minor* var. *pilosa* AW clone 02  
 購入管道：台灣食蟲社團  
@@ -66,8 +68,29 @@ isCJKLanguage: true
 
 ### 2024/02/28
 
+生長到一半的瓶子，逆光可見其瓶身的脈紋。  
+
 {{< gallery >}}
   <img src="./images/2024-02-28(1).jpg" class="grid-w33">
   <img src="./images/2024-02-28(2).jpg" class="grid-w33">
   <img src="./images/2024-02-28(3).jpg" class="grid-w33">
 {{< /gallery >}}
+
+### 2024/03/07
+
+放大可看到瓶內的倒刺，蠻可愛的。  
+這個瓶子和去年 12 月的不太一樣。  
+12 月的開口比較面向側邊，有點像馬兜鈴豬籠草那樣的駝背感，像大耳朵小精靈。  
+這次的則是很標準太陽瓶子草的型態，開口朝上且瓶身較寬，有種厚實感。  
+
+{{< gallery >}}
+  <img src="./images/2024-03-07(1).jpg" class="grid-w33">
+  <img src="./images/2024-03-07(2).jpg" class="grid-w33">
+  <img src="./images/2024-03-07(3).jpg" class="grid-w33">
+{{< /gallery >}}
+
+### 2024/04/01 發生側芽
+
+可看到同時有兩個地方正在抽新葉。  
+
+![2024-04-01](./images/2024-04-01.jpg)

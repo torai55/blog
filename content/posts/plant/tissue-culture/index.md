@@ -68,7 +68,7 @@ isCJKLanguage: true
 |漏斗|移動液體|化工行|
 |1 L 容量瓶|配製定體積溶液|化工行|
 |血清瓶/離心管|儲存藥品|化工行|
-|冰箱|存放藥品及培養植株|[yahoo](https://tw.bid.yahoo.com/item/101477695822)|
+|冰箱|存放藥品及培養植株|[shopee](https://shopee.tw/product/3149994/21891034317?d_id=7871c&uls_trackid=4vfcfqoj00le&utm_content=cCppQFiTumhUxEN67k3XQnZY4J3)|
 |高壓滅菌釜|材料滅菌|[shopee](https://shp.ee/sjlzygh)|
 |無菌操作台|無菌操作|[Z GENES](https://www.zgenebiotech.com/product/detail/1523572)|
 |精度 0.01 g 之精密天平|量取定量固體|化工行|

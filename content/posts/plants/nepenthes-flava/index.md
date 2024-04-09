@@ -37,3 +37,12 @@ isCJKLanguage: true
   <img src="./images/2024-01-24(4).jpg" class="grid-w33">
   <img src="./images/2024-01-24(1).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/04/05
+
+植株適應後放置於濕度變化較大的地方，還是能順利結瓶，看起對環境耐性挺好的。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-05(1).jpg" class="grid-w40">
+  <img src="./images/2024-04-05(2).jpg" class="grid-w60">
+{{< /gallery >}}

@@ -10,6 +10,8 @@ isCJKLanguage: true
 
 ## 植物資料
 
+{{< processImage "featured.jpg" "350x">}}
+
 中文名稱：高棉勞氏風鈴豬籠草，也稱老虎LC  
 學名：*Nepenthes thorelii* 'tiger' x (*lowii* x *campanulata*)  
 入手管道：蝕友贈送  
@@ -50,4 +52,17 @@ isCJKLanguage: true
 {{< gallery >}}
   <img src="./images/2024-01-02(1).jpg" class="grid-w50">
   <img src="./images/2024-01-02(2).jpg" class="grid-w50">
+{{< /gallery >}}
+
+### 2024/03
+
+持續結新的捕蟲瓶。  
+中間照片可看到瓶身所分泌的糖蜜。
+土表冒出幼年葉片，看來是長側芽了。  
+
+{{< gallery >}}
+  <img src="./images/2024-03-13(1).jpg" class="grid-w25">
+  <img src="./images/2024-03-13(2).jpg" class="grid-w25">
+  <img src="./images/2024-03-15.jpg" class="grid-w50">
+  <img src="./images/2024-03-30.jpg" class="grid-w50">
 {{< /gallery >}}

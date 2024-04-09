@@ -51,3 +51,13 @@ isCJKLanguage: true
   <img src="./images/2024-02-27(1).jpg" class="grid-w25">
   <img src="./images/2024-02-27(2).jpg" class="grid-w25">
 {{< /gallery >}}
+
+### 2024/03/15、04/08 顏色變深
+
+沒有移動植株，沒有結新的瓶子，可能是天氣的濕度變動太大。  
+唯一的瓶子顏色持續變深。  
+
+{{< gallery >}}
+  <img src="./images/2024-03-15.jpg" class="grid-w50">
+  <img src="./images/2024-04-08.jpg" class="grid-w50">
+{{< /gallery >}}

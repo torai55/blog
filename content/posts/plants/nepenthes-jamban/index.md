@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-![feature](./featured.jpg)
+{{< processImage "featured.jpg" "350x">}}
 
 中文名稱：馬桶豬籠草  
 學名：*Nepenthes jamban*  
@@ -60,3 +60,10 @@ isCJKLanguage: true
 無新的瓶子，穩定生長中。  
 
 ![2024-02-02](./images/2024-02-02.jpg)
+
+### 2024/03/30
+
+新瓶子。  
+下一個籠蔓黑掉了，期間沒移動植株，不確定原因，只能猜是天氣濕度變化太大。  
+
+![2024-03-30](./images/2024-03-30.jpg)

@@ -32,3 +32,15 @@ isCJKLanguage: true
   <img src="./images/2024-02-01(1).jpg" class="grid-w50">
   <img src="./images/2024-02-01(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/03/24
+
+夜溫開始變高，目前已移至冰箱種植。  
+一直悶養中，穩定結瓶。  
+居然連老瓶子都沒有枯萎。
+其實有降溫就很好種。  
+
+{{< gallery >}}
+  <img src="./images/2024-03-24(1).jpg" class="grid-w50">
+  <img src="./images/2024-03-24(2).jpg" class="grid-w50">
+{{< /gallery >}}
