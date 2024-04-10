@@ -30,3 +30,13 @@ isCJKLanguage: true
 目前套袋室內燈養中，日夜溫約 22/18℃ 左右。  
 
 ![2024-01-28](./images/2024-01-28.jpg)
+
+### 2024/04/10
+
+日夜溫約 26/24℃。  
+有兩個籠蔓末端都在膨大中，希望不要長成畸型瓶。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-10(1).jpg" class="grid-w55">
+  <img src="./images/2024-04-10(2).jpg" class="grid-w45">
+{{< /gallery >}}

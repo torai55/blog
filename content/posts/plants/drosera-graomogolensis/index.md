@@ -4,7 +4,7 @@ date: 2024-01-05T23:21:56+08:00
 summary: '栽培紀錄'
 draft: false
 categories: ['Plants']
-tags: ['Drosera', 'Record', 'Draft']
+tags: ['Drosera', 'Record']
 isCJKLanguage: true
 ---
 
@@ -34,6 +34,14 @@ isCJKLanguage: true
 左側葉片尖端有小芽產生。  
 
 ![2023-02-02](./images/2024-02-02.jpg)
+
+### 2024/04/10 枯萎後新生
+
+原本以為狀況還行，沒有悶養後一陣子突然主芽點枯萎，剩下他自行從葉尖生長出來的小苗。  
+發現狀況後繼續加蓋悶養。  
+今天發現枯萎的芽點又有新的葉子冒出來。  
+
+![2024-04-10](./images/2024-04-10.jpg)
 
 ## 參考資料
 

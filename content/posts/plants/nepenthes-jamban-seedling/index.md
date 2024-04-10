@@ -2,9 +2,9 @@
 title: 'Nepenthes jamban seedling 實生馬桶豬籠草'
 date: 2024-01-05T20:21:16+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
-tags: ['Nepenthes', 'Seedling', 'Record', 'Draft']
+tags: ['Nepenthes', 'Seedling', 'Record']
 isCJKLanguage: true
 ---
 
@@ -35,3 +35,9 @@ isCJKLanguage: true
 看到四棵種子的下胚軸伸出來了。  
 
 ![2024-02-24](./images/2024-02-24.jpg)
+
+### 2024/04/10 長真葉
+
+開始長帶有籠蔓的真葉。  
+
+![2024-04-10](./images/2024-04-10.jpg)

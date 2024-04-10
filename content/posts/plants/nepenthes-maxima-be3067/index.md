@@ -39,3 +39,14 @@ Ping 樂園提供的照片與 [Carnivero](https://www.carnivero.com/products/nep
   <img src="./images/2023-12-11(1).jpg" class="grid-w50">
   <img src="./images/2023-12-11(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/04/10
+
+對環境耐性很好，放在濕度變化大的地方還是每葉結瓶。  
+而瓶子需要光照斑紋才明顯。  
+瓶身顏色較深，籠頸變長了點，籠蓋下表面似乎有一點糖蜜。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-10(2).jpg" class="grid-w50">
+  <img src="./images/2024-04-10(1).jpg" class="grid-w50">
+{{< /gallery >}}

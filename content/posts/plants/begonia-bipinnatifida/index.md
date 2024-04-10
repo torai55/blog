@@ -36,8 +36,19 @@ isCJKLanguage: true
 
 砍頂芽扦插。  
 左圖為上半段，右圖為下半段。  
+上半段送人，下半段留著自己種。  
 
 {{< gallery >}}
   <img src="./images/2024-01-05.jpg" class="grid-w50">
   <img src="./images/2024-01-07.jpg" class="grid-w50">
+{{< /gallery >}}
+
+### 2024/04/10
+
+舊葉乾枯脫落。  
+生長速度蠻快的，高度快要超過夾鏈袋了。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-10(1).jpg" class="grid-w45">
+  <img src="./images/2024-04-10(2).jpg" class="grid-w55">
 {{< /gallery >}}

@@ -45,8 +45,11 @@ isCJKLanguage: true
 
 ![2024-01-24](./images/2024-01-24.jpg)
 
-### 2024/04/02
+### 2024/04
 
 葉子持續生長，也開了朵小花。  
 
-![2024-04-02](./images/2024-04-02.jpg)
+{{< gallery >}}
+  <img src="./images/2024-04-10.jpg" class="grid-w50">
+  <img src="./images/2024-04-02.jpg" class="grid-w50">
+{{< /gallery >}}
