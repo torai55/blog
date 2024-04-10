@@ -2,9 +2,9 @@
 title: 'Nepenthes inermis seedling 實生無刺豬籠草'
 date: 2023-12-01T18:11:56+08:00
 summary: '栽培紀錄'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Nepenthes', 'Seedling', 'Record']
+tags: ['Nepenthes', 'Seedling', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

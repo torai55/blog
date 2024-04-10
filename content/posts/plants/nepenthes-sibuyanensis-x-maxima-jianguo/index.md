@@ -2,9 +2,9 @@
 title: 'Nepenthes sibuyanensis x maxima Jianguo 建國花市版辛布大豬籠草'
 date: 2024-01-07T22:04:23+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
-tags: ['', 'Record']
+tags: ['Nepenthes', 'Record']
 isCJKLanguage: true
 ---
 
@@ -24,6 +24,13 @@ isCJKLanguage: true
 ### 2024/01/06
 
 {{< gallery >}}
-  <img src="./images/2024-01-06(1).jpg" class="grid-w50">
-  <img src="./images/2024-01-06(2).jpg" class="grid-w50">
+  <img src="./images/2024-01-06(1).jpg" class="grid-w55">
+  <img src="./images/2024-01-06(2).jpg" class="grid-w45">
 {{< /gallery >}}
+
+### 2024/04/10
+
+生長速度很慢，也不愛結瓶。  
+不過瓶子壽命很長，三個月了還沒有乾枯。  
+
+![2024-04-10](./images/2024-04-10.jpg)
