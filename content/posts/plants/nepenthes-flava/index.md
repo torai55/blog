@@ -46,3 +46,9 @@ isCJKLanguage: true
   <img src="./images/2024-04-05(1).jpg" class="grid-w40">
   <img src="./images/2024-04-05(2).jpg" class="grid-w60">
 {{< /gallery >}}
+
+### 2024/04/19
+
+適應後看來可以葉葉結瓶，過幾天又有新的瓶子。  
+
+![2024-04-19](./images/2024-04-19.jpg)

@@ -40,3 +40,9 @@ isCJKLanguage: true
   <img src="./images/2024-04-10(1).jpg" class="grid-w55">
   <img src="./images/2024-04-10(2).jpg" class="grid-w45">
 {{< /gallery >}}
+
+### 2024/04/17
+
+瓶子意外地小，目前看起來很葫蘆。  
+
+![2024-04-17](./images/2024-04-17.jpg)
