@@ -2,9 +2,9 @@
 title: 'Plant tissue culture'
 date: 2024-04-03T16:32:32+08:00
 summary: '植物組織培養簡報'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Tissue Culture']
+tags: ['Tissue Culture', 'Draft']
 isCJKLanguage: true
 ---
 
@@ -59,26 +59,26 @@ isCJKLanguage: true
 |名稱|用途|來源|
 |:-:|:-:|:-:|
 |安全吸球|量取定量液體|化工行|
-|刻度 0.1 ml 之刻度吸管|量取定量液體|[DOGGER](https://dgs.com.tw/product/headCode/BR-27816)|
+|容量 1 mL 且刻度為 0.1 mL 之刻度吸管|量取定量液體|[DOGGER](https://dgs.com.tw/product/headCode/BR-27816)|
 |1 L 燒杯|混合藥品|化工行|
 |塑膠手套|無菌操作|化工行|
 |長鑷子|無菌操作|化工行|
 |解剖刀片|切割外植體|化工行|
 |長柄解剖刀|切割外植體|化工行|
 |漏斗|移動液體|化工行|
-|1 L 容量瓶|配製定體積溶液|化工行|
+|100 mL, 1 L 容量瓶|配製定體積溶液|化工行|
 |血清瓶/離心管|儲存藥品|化工行|
 |冰箱|存放藥品及培養植株|[shopee](https://shopee.tw/product/3149994/21891034317?d_id=7871c&uls_trackid=4vfcfqoj00le&utm_content=cCppQFiTumhUxEN67k3XQnZY4J3)|
 |高壓滅菌釜|材料滅菌|[shopee](https://shp.ee/sjlzygh)|
 |無菌操作台|無菌操作|[Z GENES](https://www.zgenebiotech.com/product/detail/1523572)|
 |精度 0.01 g 之精密天平|量取定量固體|化工行|
 |秤量紙|量取定量固體|化工行|
-|刮勺|挖取固體藥品|化工行|
+|微量藥匙|挖取固體藥品|化工行|
 |玻棒|混合藥品|化工行|
 |組培盒|裝培養基|[Z GENES](https://www.zgenebiotech.com/product/detail/1234637)|
-|酒精燈|器材殺菌|化工行|
-|金屬網|均勻加熱|化工行|
+|酒精燈組（酒精燈、陶瓷網、三腳架）|器材殺菌|化工行|
 |離心管架|放置器材|化工行|
+|pH 5.2 - 7.2 試紙|測定 pH|化工行|
 
 ## 四、藥品
 
@@ -100,19 +100,19 @@ isCJKLanguage: true
 
 先配置植物生長調節劑 (Plant Growth Regulator, PGR) 之原液，再混入基礎培養基，並定量至 1 L。
 
-製備 PGR 原液濃度為 0.1 mg/ml，並以配置濃度 0.1 mg/L NAA + 0.1 mg/L TDZ 之 1/2 MS 培養基為例。
+製備 PGR 原液濃度為 0.1 mg/mL，並以配置濃度 0.1 mg/L NAA + 0.1 mg/L TDZ 之 1/2 MS 培養基為例。
 
 #### (1) 植物生長調節劑原液製備
 
 1. 植物生長素類（如 NAA、IAA、IBA），使用 1N NaHO、KOH 或酒精作為溶液；細胞分裂素類（如 BAP、TDZ、Kinetin）則使用 1N HCl 作為溶液。溶劑參考：[Growth Regulators – Plant Tissue Culture Protocol](https://www.sigmaaldrich.com/TW/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/plant-tissue-culture/growth-regulators)。
-2. 秤量好 0.01 g 之 PGR 粉劑加入溶液中溶解，並加水定體積至 100 ml。製備為濃度 0.1 mg/ml 之原液。建議原液濃度為 0.1-0.5 mg/ml，可避免冷藏時結晶析出。
-3. 分裝至離心管中冷藏儲存，一管約 50 ml。
+2. 準備 100 mL 容量瓶，秤量並倒入 0.01 g 之 PGR 粉劑，加入 2-5 mL 溶液溶解，並加水定體積至 100 mL。得到濃度為 0.1 mg/mL 之原液。建議原液濃度為 0.1-0.5 mg/mL，可避免冷藏時結晶析出。
+3. 分裝至離心管中冷藏儲存，一管約 50 mL。
 
 #### (2) 基礎培養基 (Basal Medium) 製備
 
-1. 預計配置 1 L 容量之培養基，先將約 800 ml 去離子水置於 1 L 容量瓶中。
+1. 預計配置 1 L 容量之培養基，先將約 800 mL 去離子水置於 1 L 容量瓶中。
 2. 以精密天平秤取 40.7g 附帶洋菜膠與蔗糖的 MS 培養基粉劑，加入容量瓶中。
-3. 使用刻度吸管加入 1 ml NAA 原液及 1 ml TDZ 原液，以去離子水定體積至 1 L。
+3. 使用刻度吸管加入 1 mL NAA 原液及 1 mL TDZ 原液，以去離子水定體積至 1 L。
 4. 將溶液移至 1 L 燒杯，利用酸鹼試紙測定 pH 值，以 1N HCl 或 1N KOH (NaOH) 調整 pH 值至 5.7 ± 0.1。
 5. 水浴加熱使洋菜膠溶解，並分裝至組培盒中。
 6. 將分裝好的組培盒，置於高壓滅菌釜中。在溫度 121℃，壓力 1.05 kg/cm^2 條件維持 15 分鐘滅菌。
