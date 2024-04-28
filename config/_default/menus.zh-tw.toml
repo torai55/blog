@@ -48,9 +48,14 @@
 #   weight = 50
 
 [[main]]
-  pre = "github"
-  url = "https://github.com/torai55/blog"
-  weight = 60
+  pre = "facebook"
+  url = "https://www.facebook.com/profile.php?id=61558403895629"
+  weight = 55
+
+# [[main]]
+#   pre = "github"
+#   url = "https://github.com/torai55/blog"
+#   weight = 60
 
 # [[main]]
 #  name = "Parent"
