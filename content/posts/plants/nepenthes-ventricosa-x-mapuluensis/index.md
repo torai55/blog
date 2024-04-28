@@ -41,8 +41,12 @@ isCJKLanguage: true
   <img src="./images/2024-04-10(2).jpg" class="grid-w45">
 {{< /gallery >}}
 
-### 2024/04/17
+### 2024/04/17、04/28
 
 瓶子意外地小，目前看起來很葫蘆。  
+斜口，開瓶後上半部的顏色會逐漸轉紅。  
 
-![2024-04-17](./images/2024-04-17.jpg)
+{{< gallery >}}
+  <img src="./images/2024-04-17.jpg" class="grid-w45">
+  <img src="./images/2024-04-28.jpg" class="grid-w55">
+{{< /gallery >}}

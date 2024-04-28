@@ -4,7 +4,7 @@ date: 2023-12-15T14:55:05+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Record', 'Sarracenia', 'Draft']
+tags: ['Record', 'Sarracenia', 'Dead']
 isCJKLanguage: true
 ---
 

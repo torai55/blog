@@ -31,3 +31,12 @@ isCJKLanguage: true
   <img src="./images/2024-01-07(1).jpg" class="grid-w50">
   <img src="./images/2024-01-07(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/04/28 抽芽
+
+沒開花，直接從假球莖側邊抽芽。  
+
+{{< gallery >}}
+  <img src="./images/2024-04-28(1).jpg" class="grid-w50">
+  <img src="./images/2024-04-28(2).jpg" class="grid-w50">
+{{< /gallery >}}

@@ -2,9 +2,9 @@
 title: "Heliamphora exappendiculata 'Ewok' 無附太陽瓶子草"
 date: 2023-09-08T02:05:45+08:00
 summary: '無附太陽瓶子草的栽培紀錄'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Heliamphora', 'Record']
+tags: ['Heliamphora', 'Record', 'Dead']
 isCJKLanguage: true
 ---
 
