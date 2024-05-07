@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-俗名：高棉交TM豬籠草  
+俗名：高棉交 TM 豬籠草  
 學名：*Nepenthes thorelii* x x trusmadiensis  
 購入價格：375 NTD  
 

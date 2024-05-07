@@ -2,9 +2,9 @@
 title: 'Heliamphora nutans 垂花太陽瓶子草'
 date: 2024-03-01T19:39:03+08:00
 summary: '栽培紀錄'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Heliamphora', 'Record']
+tags: ['Heliamphora', 'Record', 'Dead']
 isCJKLanguage: true
 ---
 

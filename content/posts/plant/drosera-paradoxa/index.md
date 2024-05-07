@@ -2,9 +2,9 @@
 title: 'Drosera paradoxa 紅孔雀毛氈苔'
 date: 2024-04-11T00:53:24+08:00
 summary: '栽培紀錄'
-draft: false
+draft: true
 categories: ['Plants']
-tags: ['Drosera', 'Record']
+tags: ['Drosera', 'Record', 'Dead']
 isCJKLanguage: true
 ---
 
@@ -51,3 +51,7 @@ isCJKLanguage: true
   <img src="./images/2024-04-09(1).jpg" class="grid-w50">
   <img src="./images/2024-04-09(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/05/06 死亡
+
+夏天腰水種植，結果從底部慢慢往上黑心。

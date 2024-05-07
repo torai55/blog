@@ -33,7 +33,7 @@ Y's 為來自山田 (Y's Exotics) 的交種。
 定植時在莖基部包覆水苔，並以無肥泥炭土、赤玉土、珍珠石之混合介質填充盆內空間。  
 套袋悶養中，希望能順利發根。  
 
-![2023-12-02](./images/2023-12-02.jpg)
+{{< processImage "images/2023-12-02.jpg" "400x" >}}
 
 ### 2024/01/02 移除套袋
 
@@ -41,7 +41,7 @@ Y's 為來自山田 (Y's Exotics) 的交種。
 植株持續生長中。  
 移除套袋後，新葉沒有乾枯跡象，代表吸水速度有跟上，高機率已經發根了。  
 
-![2024-01-02](./images/2024-01-02.jpg)
+{{< processImage "images/2024-01-02.jpg" "400x" >}}
 
 ### 2024/04/10 開始結瓶
 
@@ -51,4 +51,11 @@ Y's 為來自山田 (Y's Exotics) 的交種。
 {{< gallery >}}
   <img src="./images/2024-04-10(1).jpg" class="grid-w60">
   <img src="./images/2024-04-10(2).jpg" class="grid-w40">
+{{< /gallery >}}
+
+### 2024/05/04
+
+{{< gallery >}}
+  <img src="./images/2024-05-04(1).jpg" class="grid-w50">
+  <img src="./images/2024-05-04(2).jpg" class="grid-w50">
 {{< /gallery >}}
