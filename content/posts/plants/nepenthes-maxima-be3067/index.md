@@ -50,3 +50,12 @@ Ping 樂園提供的照片與 [Carnivero](https://www.carnivero.com/products/nep
   <img src="./images/2024-04-10(2).jpg" class="grid-w50">
   <img src="./images/2024-04-10(1).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/05/25
+
+新瓶子尺寸又更大了一點，長籠頸的特徵也更明顯。
+
+{{< gallery >}}
+  <img src="./images/2024-05-25(1).jpg" class="grid-w50">
+  <img src="./images/2024-05-25(2).jpg" class="grid-w50">
+{{< /gallery >}}

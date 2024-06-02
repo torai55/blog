@@ -50,3 +50,9 @@ isCJKLanguage: true
   <img src="./images/2024-04-17.jpg" class="grid-w45">
   <img src="./images/2024-04-28.jpg" class="grid-w55">
 {{< /gallery >}}
+
+### 2024/05/15
+
+新瓶子莫名的細長，希望之後能逐漸像親本照片一樣變寬。  
+
+![2024-05-15](./images/2024-05-15.jpg)

@@ -43,3 +43,15 @@ isCJKLanguage: true
   <img src="./images/2024-03-24(1).jpg" class="grid-w50">
   <img src="./images/2024-03-24(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/05/12
+
+速度約兩個月一片葉子。  
+葉柄轉紅，可能光照比起之前環境還強。  
+最新的葉子有點縮水，盤點可能的原因大約是小苗移植適應期、之前還沒移入冰箱時熱到，或者日夜溫差不足導致。  
+下一片葉子若還是縮水可能就要考慮調整溫度。  
+
+{{< gallery >}}
+  <img src="./images/2024-05-12(1).jpg" class="grid-w50">
+  <img src="./images/2024-05-12(2).jpg" class="grid-w50">
+{{< /gallery >}}

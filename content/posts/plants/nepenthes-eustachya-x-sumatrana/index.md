@@ -25,3 +25,13 @@ isCJKLanguage: true
   <img src="./images/2024-03-01(1).jpg" class="grid-w50">
   <img src="./images/2024-03-01(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/06/02 結瓶
+
+新的幾片葉子都為淺綠色，想不出原因且看起來有正常生長，於是放置不管。  
+瓶子稍微縮水，應該是植株還在適應。  
+
+{{< gallery >}}
+  <img src="./images/2024-06-02(1).jpg" class="grid-w55">
+  <img src="./images/2024-06-02(2).jpg" class="grid-w45">
+{{< /gallery >}}

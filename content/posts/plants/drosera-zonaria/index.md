@@ -2,9 +2,9 @@
 title: 'Drosera zonaria 環狀毛氈苔'
 date: 2024-04-29T23:07:43+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
-tags: ['Drosera', 'Record', 'Draft']
+tags: ['Drosera', 'Record']
 isCJKLanguage: true
 ---
 

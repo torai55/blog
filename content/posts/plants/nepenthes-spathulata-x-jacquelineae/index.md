@@ -61,3 +61,14 @@ isCJKLanguage: true
   <img src="./images/2024-03-15.jpg" class="grid-w50">
   <img src="./images/2024-04-08.jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/06/02 唇寬加大
+
+賈桂琳的特徵更加明顯，寬大的紅唇十分有特色。  
+剛開瓶的橘紅色，與老瓶紅到發黑的反差也很有趣。
+
+{{< gallery >}}
+  <img src="./images/2024-06-02(3).jpg" class="grid-w33">
+  <img src="./images/2024-06-02(1).jpg" class="grid-w33">
+  <img src="./images/2024-06-02(2).jpg" class="grid-w33">
+{{< /gallery >}}
