@@ -52,3 +52,14 @@ isCJKLanguage: true
 適應後看來可以葉葉結瓶，過幾天又有新的瓶子。  
 
 ![2024-04-19](./images/2024-04-19.jpg)
+
+### 2024/06/05
+
+冰箱日夜溫約 24/21℃，投射燈光直射處。  
+生長狀況良好，新結的瓶子會由橘黃色開始，逐漸轉成紅黑色。  
+
+{{< gallery >}}
+  <img src="./images/2024-06-05(1).jpg" class="grid-w50">
+  <img src="./images/2024-06-05(2).jpg" class="grid-w25">
+  <img src="./images/2024-06-05(3).jpg" class="grid-w25">
+{{< /gallery >}}

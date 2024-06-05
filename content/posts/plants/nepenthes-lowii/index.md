@@ -32,3 +32,13 @@ isCJKLanguage: true
   <img src="./images/2024-01-21(2).jpg" class="grid-w33">
   <img src="./images/2024-01-21(3).jpg" class="grid-w33">
 {{< /gallery >}}
+
+### 2024/06/05
+
+冰箱日夜溫約 24/21℃，投射燈直射處。  
+長出來的葉子偏黃。  
+
+{{< gallery >}}
+  <img src="./images/2024-06-05(1).jpg" class="grid-w50">
+  <img src="./images/2024-06-05(2).jpg" class="grid-w50">
+{{< /gallery >}}

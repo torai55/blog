@@ -10,7 +10,7 @@ isCJKLanguage: true
 
 ## 植物資料
 
-{{< processImage "featured.jpg" "350x" "caption">}}
+{{< processImage "featured.jpg" "350x" >}}
 
 中文名稱：艾登堡豬籠草  
 學名：*Nepenthes attenboroughii*  
@@ -24,3 +24,10 @@ isCJKLanguage: true
 放在小冰箱，溫度約 21-23℃。  
 
 ![2024-04-29](./images/2024-04-29.jpg)
+
+### 2024/06/05
+
+冰箱內日夜溫約 24/21℃，弱光處加蓋悶養。  
+長速偏慢，就算加蓋高濕度悶養還是枯了不少瓶子。  
+
+![2024-06-05](./images/2024-06-05.jpg)
