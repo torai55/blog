@@ -2,7 +2,7 @@
 title: 'Paphiopedilum bellatulum x rungsuriyanum'
 date: 2024-06-05T18:48:26+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
 tags: ['Paphiopedilum', 'Record']
 isCJKLanguage: true

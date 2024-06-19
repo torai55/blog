@@ -2,7 +2,7 @@
 title: 'Paphiopedilum "Tignanello Beauty" x rungsuriyanum'
 date: 2024-06-05T18:55:29+08:00
 summary: '栽培紀錄'
-draft: true
+draft: false
 categories: ['Plants']
 tags: ['Paphiopedilum', 'Record']
 isCJKLanguage: true
