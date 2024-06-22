@@ -4,7 +4,7 @@ date: 2024-06-20T00:25:21+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Tritonia', 'Record']
+tags: ['Tritonia', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

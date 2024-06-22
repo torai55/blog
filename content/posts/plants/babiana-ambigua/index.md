@@ -4,7 +4,7 @@ date: 2024-06-05T22:55:46+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Babiana', 'Record']
+tags: ['Babiana', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

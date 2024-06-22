@@ -4,7 +4,7 @@ date: 2024-06-20T00:04:11+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Sarracenia', 'Record']
+tags: ['Sarracenia', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

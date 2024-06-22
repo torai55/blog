@@ -32,3 +32,10 @@ isCJKLanguage: true
   <img src="./images/2024-06-01(1).jpg" class="grid-w50">
   <img src="./images/2024-06-01(2).jpg" class="grid-w50">
 {{< /gallery >}}
+
+### 2024/06/20
+
+第二個瓶子也打開了，可以看到瓶身有許多蜜腺。  
+籠蓋下表面也有許多透明的糖蜜，摸起來是黏稠的觸感。  
+
+![2024-06-20](./images/2024-06-20.jpg)

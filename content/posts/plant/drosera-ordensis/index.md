@@ -4,7 +4,7 @@ date: 2024-06-19T14:59:17+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Drosera', 'Record']
+tags: ['Drosera', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 

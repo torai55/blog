@@ -4,14 +4,14 @@ date: 2024-06-05T23:18:21+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Narcissus', 'Record']
+tags: ['Narcissus', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 
 ## 植物資料
 
 中文名稱：圍裙水仙  
-學名：*Narcissus* 'Canary Mouth'  
+園藝名：*Narcissus* 'Canary Mouth'  
 購入價格：200 NTD  
 
 名字為賣家提供，目前以此名稱在網路搜尋不到。  

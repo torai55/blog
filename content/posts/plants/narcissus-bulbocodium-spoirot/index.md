@@ -4,7 +4,7 @@ date: 2024-06-05T23:18:07+08:00
 summary: '栽培紀錄'
 draft: true
 categories: ['Plants']
-tags: ['Narcissus', 'Record']
+tags: ['Narcissus', 'Record', 'Draft']
 isCJKLanguage: true
 ---
 
